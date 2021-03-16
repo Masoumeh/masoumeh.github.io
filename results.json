@@ -1,0 +1,4162 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "Abd Allah",
+      "children": [
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "Sulayman",
+              "value": 2
+            },
+            {
+              "name": "Abu Salih",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ishaq b. Yahya b. Talha",
+          "children": [
+            {
+              "name": "موسى بن طلحة",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Jarir b. Hazim",
+          "children": [
+            {
+              "name": "Abu Yazid al-Madini",
+              "value": 1
+            },
+            {
+              "name": "Jarir b. Yazid",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Sufyan b. ###Uyayna",
+          "children": [
+            {
+              "name": "Mujallad",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abd Allah b. Ahmad al-Marwazi",
+      "children": [
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "Sulayman",
+              "value": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abd Allah b. Ahmad b. Shibawayh",
+      "children": [
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "Sulayman",
+              "value": 12
+            },
+            {
+              "name": "Sulayman b. al-Fadl",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ammi",
+          "children": [
+            {
+              "name": "Sulayman",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abd al-Rahman b. ###Abd Allah b. ###Abd al-Hakam",
+      "children": [
+        {
+          "name": "Abd al-Malik b. Maslama",
+          "children": [
+            {
+              "name": "Ibn Layi###a",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Zur###a",
+          "children": [
+            {
+              "name": "Yunus",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Ma###bad",
+          "children": [
+            {
+              "name": "عبيد الله بن عمرو",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nu###aym b. Hammad",
+          "children": [
+            {
+              "name": "الدراوردي",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Ya###qub b. Ishaq b. Abi ###Abbad",
+          "children": [
+            {
+              "name": "محمد بن مسلم الطائفي",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Bukayr",
+          "children": [
+            {
+              "name": "محمد بن يحيى الإسكندراني",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abi",
+      "children": [
+        {
+          "name": "Abihi",
+          "children": [
+            {
+              "name": "Ibn ###Abbas",
+              "value": 2
+            },
+            {
+              "name": "ابن عباس قوله عز وجل وإذ أخذ ربك بني آدم ظهورهم ذريتهم إلى قوله قالوا بلى شهدنا",
+              "value": 1
+            },
+            {
+              "name": "ابن عباس والأرض بعد ذلك دحاها أخرج منها ماءها ومرعاها والجبال أرساها",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Ishaq",
+          "children": [
+            {
+              "name": "معبد بن كعب",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Khirash b. al-Mughira b. ###Atiyya",
+          "children": [
+            {
+              "name": "Abihi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Musa b. ###Abd Allah",
+          "children": [
+            {
+              "name": "حبسنا ضاق الحبس بنا فسأل أبي رياحا",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Qatada",
+          "children": [
+            {
+              "name": "قتل عثمان رضي الله",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Sulayman",
+          "children": [
+            {
+              "name": "Abd Allah",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Sulayman b. Mujalid",
+          "children": [
+            {
+              "name": "أفسد أهل الكوفة جند أمير المؤمنين المنصور عليه فخرج نحو الجبل يرتاد منزلا والطريق يومئذ على المدائن فخرجنا على ساباط فتخلف بعض أصحابي",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Mansur",
+          "children": [
+            {
+              "name": "أخطأت ثلاث خطيات وقاني الله شرها قتلت أبا مسلم",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Walid b. Kathir",
+          "children": [
+            {
+              "name": "محمد بن عجلان",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "أبان العطار",
+          "children": [
+            {
+              "name": "Hisham b. ###Urwa",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "ابن لعمر بن عبد العزيز",
+          "children": [
+            {
+              "name": "أمرنا عمر",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "جاء الخبر إلى رياح",
+          "children": [
+            {
+              "name": "دار مروان ان محمدا الخارج الليلة فأرسل إلى محمد بن عمران وإلى العباس بن عبد الله بن الحارث ابن العباس وإلى",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "حمران مد رجله فابتدر معاوية وعبد الله بن عامر أيهما يغمزها",
+          "children": [
+            {
+              "name": "خبر ولايه خالد بن عبد الله على البصره",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "عبد الله بن أبي مليكة",
+          "children": [
+            {
+              "name": "عبد الله بن عمرو",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "هجا عمك أبو نواس مضر",
+          "children": [
+            {
+              "name": "قصيدته التي",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abu Kurayb",
+      "children": [
+        {
+          "name": "Abd al-Humayd al-Hammani",
+          "children": [
+            {
+              "name": "al-Nadr Abu ###Umar al-Khazzaz",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Bakr",
+          "children": [
+            {
+              "name": "al-Ashja###i",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Bakr b. ###Iyash",
+          "children": [
+            {
+              "name": "Abu Hasin",
+              "value": 1
+            },
+            {
+              "name": "Abu Ishaq",
+              "value": 1
+            },
+            {
+              "name": "الحجاج إلى فلان",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Mu###awiya",
+          "children": [
+            {
+              "name": "al-###Amash",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Nu###aym",
+          "children": [
+            {
+              "name": "يونس بن إسحاق",
+              "value": 1
+            },
+            {
+              "name": "Bashir b. al-Muhahir",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Usama",
+          "children": [
+            {
+              "name": "Hisham",
+              "value": 2
+            },
+            {
+              "name": "al-###Amash",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Atham b. ###Ali",
+          "children": [
+            {
+              "name": "al-###Amash",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Hasan b. ###Atiyya",
+          "children": [
+            {
+              "name": "قيس",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Hashim",
+          "children": [
+            {
+              "name": "إسماعيل بن",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn ###Atiyya",
+          "children": [
+            {
+              "name": "قيس",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Idris",
+          "children": [
+            {
+              "name": "Abi",
+              "value": 1
+            },
+            {
+              "name": "Isma###il b. Abi Khalid",
+              "value": 1
+            },
+            {
+              "name": "Isma###il b. Sumay###a",
+              "value": 1
+            },
+            {
+              "name": "ليث بن أبي سليم",
+              "value": 1
+            },
+            {
+              "name": "مطرفا",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Yaman",
+          "children": [
+            {
+              "name": "Isra###il",
+              "value": 3
+            },
+            {
+              "name": "Sufyan",
+              "value": 3
+            },
+            {
+              "name": "Mubarak",
+              "value": 2
+            },
+            {
+              "name": "Mubarak b. Fadala",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ishaq b. Mansur",
+          "children": [
+            {
+              "name": "Abu Kadina",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ja###far b. ###Awn",
+          "children": [
+            {
+              "name": "Ibrahim b. Isma###il",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Jabir b. Nuh",
+          "children": [
+            {
+              "name": "al-###Amash",
+              "value": 3
+            },
+            {
+              "name": "Isma###il b. Abi Khalid",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Khalid",
+          "children": [
+            {
+              "name": "Sulayman b. Bilal",
+              "value": 1
+            },
+            {
+              "name": "Muhammad b. Ja###far",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Mu###awiya b. Hisham",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Mus###ab b. al-Miqdam",
+          "children": [
+            {
+              "name": "Hammad b. Salama",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Sufyan b. ###Aqaba",
+          "children": [
+            {
+              "name": "Hamza al-Ziyyat",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ubayd Allah b. Musa",
+          "children": [
+            {
+              "name": "Muhammad b. Isma###il al-Ahmasi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ubayd b. Sa###id",
+          "children": [
+            {
+              "name": "Sha###ba",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Uthman b. Sa###id",
+          "children": [
+            {
+              "name": "Bishr b. ###Umara",
+              "value": 4
+            },
+            {
+              "name": "Abbad b. al-###Awwam",
+              "value": 1
+            },
+            {
+              "name": "Abu al-Ahwas",
+              "value": 1
+            },
+            {
+              "name": "Hibban b. ###Ali",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Waki###",
+          "children": [
+            {
+              "name": "Isra###il",
+              "value": 1
+            },
+            {
+              "name": "Sha###ba",
+              "value": 1
+            },
+            {
+              "name": "علي بن المبارك",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. ###Isa",
+          "children": [
+            {
+              "name": "al-###Amash",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Adam",
+          "children": [
+            {
+              "name": "Zuhayr",
+              "value": 1
+            },
+            {
+              "name": "Isra###il",
+              "value": 1
+            },
+            {
+              "name": "Abu Bakr",
+              "value": 1
+            },
+            {
+              "name": "Abu Bakr b. ###Iyash",
+              "value": 1
+            },
+            {
+              "name": "Ibn Uyayna",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yunus b. Bukayr",
+          "children": [
+            {
+              "name": "يونس بن عمرو",
+              "value": 1
+            },
+            {
+              "name": "al-Musayyib b. Muslim al-Awdi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Zayd b. Habbab",
+          "children": [
+            {
+              "name": "Salam Abu al-Mundhir al-Nahwi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hammani",
+          "children": [
+            {
+              "name": "al-###Amash",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "أبو أسامة ومحمد بن ميمون الزعفراني",
+          "children": [
+            {
+              "name": "هشام بن حسان",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "المحاربي وعبدة بن سليمان وأسد بن عمرو",
+          "children": [
+            {
+              "name": "Muhammad b. ###Amr",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "طلق",
+          "children": [
+            {
+              "name": "زائدة",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "غنام",
+          "children": [
+            {
+              "name": "Hisham",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abu Zayd",
+      "children": [
+        {
+          "name": "Abu al-Hasan",
+          "children": [
+            {
+              "name": "Ayyub b. ###Umar b. Abi ###Amr",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Muhammad",
+          "children": [
+            {
+              "name": "أراد معاوية توجيه عتبة",
+              "value": 1
+            },
+            {
+              "name": "Abu Ma###shar",
+              "value": 1
+            },
+            {
+              "name": "أبا بكر حمل على السرير الذي حمل عليه الله صلى الله عليه وسلم وصلى عليه عمر",
+              "value": 1
+            },
+            {
+              "name": "ابو معشر ومحمد ابن إسحاق وجويرية بن أسماء الذي ذكرت قالوا",
+              "value": 1
+            },
+            {
+              "name": "خرج",
+              "value": 1
+            },
+            {
+              "name": "مر ابن ظبيان بابنة مطرف بالبصرة فقيل لها قاتل أبيك فقالت",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "زعم أبو عبيدة ولم أسمعه منه",
+          "children": [
+            {
+              "name": "ابن عباس لم يبرح البصره حتى قتل على ع فشخص إلى الحسن فشهد الصلح بينه وبين معاوية رجع",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "علي بن محمد الذي قد مضى ذكره أنهم أجمعوا على",
+          "children": [
+            {
+              "name": "اسم أبي بكر عبد الله وأنه إنما قيل له عتيق",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ahmad",
+      "children": [
+        {
+          "name": "Abd al-Wahhab b. Ibrahim",
+          "children": [
+            {
+              "name": "Abu Hashim Mukhkhalad b. Muhammad",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Muhammad",
+          "children": [
+            {
+              "name": "Amr b. Marwan al-Kalbi",
+              "value": 8
+            },
+            {
+              "name": "كليب بن خلف العمي",
+              "value": 1
+            },
+            {
+              "name": "Salama b. ###Uthman",
+              "value": 1
+            },
+            {
+              "name": "Suhaym b. Hafs",
+              "value": 1
+            },
+            {
+              "name": "Sulayman",
+              "value": 1
+            },
+            {
+              "name": "al-Harith b. Yazid",
+              "value": 1
+            },
+            {
+              "name": "الحسن بن حماد نظر معاويه الثما",
+              "value": 1
+            },
+            {
+              "name": "حماد الأبح",
+              "value": 1
+            },
+            {
+              "name": "شهاب بن عبيد الله",
+              "value": 1
+            },
+            {
+              "name": "عبد الله وهشام بن سعد",
+              "value": 1
+            },
+            {
+              "name": "علي بن عبيد الله",
+              "value": 1
+            },
+            {
+              "name": "عمير بن يزيد",
+              "value": 1
+            },
+            {
+              "name": "عوانة وخلاد بن عبيدة",
+              "value": 1
+            },
+            {
+              "name": "غسان بن عبد الحميد لم يكن احد بنى مروان أشد نظرا",
+              "value": 1
+            },
+            {
+              "name": "غنى",
+              "value": 1
+            },
+            {
+              "name": "محمد بن إبراهيم",
+              "value": 1
+            },
+            {
+              "name": "Ali b. Mujahid",
+              "value": 1
+            },
+            {
+              "name": "محمد بن الحكم",
+              "value": 1
+            },
+            {
+              "name": "محمد بن عامر",
+              "value": 1
+            },
+            {
+              "name": "مروان إلى الغمر بن يزيد بعد قتل الوليد",
+              "value": 1
+            },
+            {
+              "name": "مروان بن عبد الله بن عبد الملك عاملا للوليد على حمص",
+              "value": 1
+            },
+            {
+              "name": "Ja###far b. Sulayman",
+              "value": 1
+            },
+            {
+              "name": "Abu Muhammad b. Dhakwan al-Qurashi",
+              "value": 1
+            },
+            {
+              "name": "Abu ###Asim al-Ziyadi",
+              "value": 1
+            },
+            {
+              "name": "Abd Allah b. Salih",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "علي لم يكن",
+          "children": [
+            {
+              "name": "يسير",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ahmad b. ###Abd al-Rahman b. Wahb",
+      "children": [
+        {
+          "name": "Abd Allah b. Wahb",
+          "children": [
+            {
+              "name": "Yunus",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ammi",
+          "children": [
+            {
+              "name": "al-Madi b. Muhammad",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "عمي عبد الله",
+          "children": [
+            {
+              "name": "Yunus",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "عمي عبد الله ابن وهب",
+          "children": [
+            {
+              "name": "مالك",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ahmad b. Ishaq",
+      "children": [
+        {
+          "name": "Abu Ahmad",
+          "children": [
+            {
+              "name": "Mas###ar",
+              "value": 1
+            },
+            {
+              "name": "Sharik",
+              "value": 1
+            },
+            {
+              "name": "Yunus b. Abi Ishaq",
+              "value": 1
+            },
+            {
+              "name": "سفيان وقيس",
+              "value": 1
+            },
+            {
+              "name": "عمرو بن ثابت",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Ahmad al-Zubayri",
+          "children": [
+            {
+              "name": "Isra###il",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ahmad b. Thabit al-Razi",
+      "children": [
+        {
+          "name": "Ahmad",
+          "children": [
+            {
+              "name": "Yahya b. Sa###id",
+              "value": 2
+            },
+            {
+              "name": "Ruh b. ###Abbada",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ishaq b. ###Isa",
+          "children": [
+            {
+              "name": "Abu Ma###shar",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "سمع إسحاق بن عيسى",
+          "children": [
+            {
+              "name": "Abu Ma###shar",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ahmad b. Zuhayr",
+      "children": [
+        {
+          "name": "Abd al-Wahhab b. Ibrahim",
+          "children": [
+            {
+              "name": "Abu Hashim Mukhkhalad b. Muhammad",
+              "value": 3
+            },
+            {
+              "name": "أبو هاشم مخلد بن محمد بن صالح مولى عثمان بن عفان وسألته عما",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "Wahb b. Jarir",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Abu Khaythama",
+          "children": [
+            {
+              "name": "Wahb b. Jarir",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Muhammad",
+          "children": [
+            {
+              "name": "Amr b. Marwan al-Kalbi",
+              "value": 2
+            },
+            {
+              "name": "عبد الرحمن بن أمية",
+              "value": 1
+            },
+            {
+              "name": "علي بن مجاهد وأبي سنان الجهني",
+              "value": 1
+            },
+            {
+              "name": "فازداد الناس على الوليد حنقا روي الشعر ابن بيض",
+              "value": 1
+            },
+            {
+              "name": "قحذم كاتب يوسف بعثني يوسف بن عمر إلى هشام بياقوتة حمراء يخرج طرفاها كفى وحبه لؤلؤ اعظم يكون الحب",
+              "value": 1
+            },
+            {
+              "name": "لم يتم لإبراهيم أمره",
+              "value": 1
+            },
+            {
+              "name": "مروان بن شجاع مولى لمروان بن الحكم كنت مع محمد بن هشام بن عبد الملك فأرسل فدخلت عليه غضب",
+              "value": 1
+            },
+            {
+              "name": "وسنان الأعرجي",
+              "value": 1
+            },
+            {
+              "name": "ولي سليمان غزا الروم فنزل دابق وقدم مسلمة فهابه الروم فشخص إليون أرمينية لمسلمة ابعث رجلا يكلمني فبعث",
+              "value": 1
+            },
+            {
+              "name": "يزيد بن مصاد الكلبي",
+              "value": 1
+            },
+            {
+              "name": "صلى على معاوية الضحاك بن قيس الفهري",
+              "value": 1
+            },
+            {
+              "name": "شيبة بن عثمان",
+              "value": 1
+            },
+            {
+              "name": "سلمة بن محارب ومسلم بن المغيرة وسعيد بن أوس وأبو حفص الأزدي والنعمان أبو السري ومحرز بن إبراهيم وغيرهم",
+              "value": 1
+            },
+            {
+              "name": "بويع لمعاوية بالخلافة صير",
+              "value": 1
+            },
+            {
+              "name": "Abu ###Asim al-Dibbi",
+              "value": 1
+            },
+            {
+              "name": "Abu Muhammad al-Umawi",
+              "value": 1
+            },
+            {
+              "name": "Ishaq b. Ayyub",
+              "value": 1
+            },
+            {
+              "name": "Sulayman b. Ayyub",
+              "value": 1
+            },
+            {
+              "name": "Sulayman b. Bilal",
+              "value": 1
+            },
+            {
+              "name": "al-Minhal b. ###Abd al-Malik",
+              "value": 1
+            },
+            {
+              "name": "أتى يزيد العباس فأخبره وشاوره وعاب الوليد له العباس مهلا يا يزيد فان",
+              "value": 1
+            },
+            {
+              "name": "الذى قتل حبيش ابن دلجة يوم الربذة يزيد بن سياه الأسواري رماه بنشابة فقتله فلما دخلوا المدينة وقف يزيد بن سياه",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Musa b. Isma###il",
+          "children": [
+            {
+              "name": "Da###ud",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Zahir b. Harb",
+          "children": [
+            {
+              "name": "سبب هلاك جعفر والبرامكة",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amr b. ###Ali",
+      "children": [
+        {
+          "name": "Abd al-Rahman b. Mahdi",
+          "children": [
+            {
+              "name": "Sha###ba",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Wahhab al-Thaqafi",
+          "children": [
+            {
+              "name": "Hisham",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu ###Asim",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Qutayba",
+          "children": [
+            {
+              "name": "Yunus b. Abi Ishaq",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Umran b. ###Uyayna",
+          "children": [
+            {
+              "name": "Ata### b. al-Sa###ib",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yazid b. Zari###",
+          "children": [
+            {
+              "name": "Abu Nu###ama al-###Adawi",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ayyub b. Suwayd",
+      "children": [
+        {
+          "name": "Ishaq b. ###Isa",
+          "children": [
+            {
+              "name": "Abu Ma###shar",
+              "value": 6
+            },
+            {
+              "name": "أبي معشر وكذلك",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bishr",
+      "children": [
+        {
+          "name": "Yazid",
+          "children": [
+            {
+              "name": "Sa###id",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Yazid b. Zari###",
+          "children": [
+            {
+              "name": "Sa###id",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bishr b. Mu###adh al-Sawaf",
+      "children": [
+        {
+          "name": "Yazid",
+          "children": [
+            {
+              "name": "Sa###id",
+              "value": 13
+            },
+            {
+              "name": "Sha###ba",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yazid b. Zari###",
+          "children": [
+            {
+              "name": "Sa###id",
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn Bashshar",
+      "children": [
+        {
+          "name": "Abd al-Rahman",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 5
+            },
+            {
+              "name": "Isra###il",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Rahman b. Mahdi",
+          "children": [
+            {
+              "name": "Ibn Waki###",
+              "value": 1
+            },
+            {
+              "name": "منصور بن أبي الأسود",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu ###Amir",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 1
+            },
+            {
+              "name": "قرة بن خالد",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Da###ud",
+          "children": [
+            {
+              "name": "Hammam",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn ###Athama",
+          "children": [
+            {
+              "name": "Sa###id b. Bashir",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Abi ###Adi",
+          "children": [
+            {
+              "name": "Humayd",
+              "value": 1
+            },
+            {
+              "name": "Sha###ba",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Mu###mil",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Ja###far",
+          "children": [
+            {
+              "name": "Awf",
+              "value": 1
+            },
+            {
+              "name": "Sha###ba",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Salm b. Qutayba",
+          "children": [
+            {
+              "name": "Abu Hilal",
+              "value": 1
+            },
+            {
+              "name": "Yunus b. Abi Ishaq",
+              "value": 1
+            },
+            {
+              "name": "عمر بن نبهان",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Sulayman b. Harb",
+          "children": [
+            {
+              "name": "Abu Hilal",
+              "value": 1
+            },
+            {
+              "name": "Hilal",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Sa###id",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "ابن أبي عدي وعبد الوهاب ومحمد بن جعفر",
+          "children": [
+            {
+              "name": "Awf",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "يحيى بن سعيد وعبد الرحمن بن مهدي",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn Humayd",
+      "children": [
+        {
+          "name": "Abu Da###ud Basri",
+          "children": [
+            {
+              "name": "Hammad b. Salama",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Mujahid",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Hakkam",
+          "children": [
+            {
+              "name": "عيسى بن يزيد",
+              "value": 1
+            },
+            {
+              "name": "عمرو بن قيس",
+              "value": 1
+            },
+            {
+              "name": "Abu Mu###adh",
+              "value": 1
+            },
+            {
+              "name": "Amr",
+              "value": 1
+            },
+            {
+              "name": "Anbasa",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Hakkam b. Salm",
+          "children": [
+            {
+              "name": "Anbasa",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Harun b. al-Mughira",
+          "children": [
+            {
+              "name": "Anbasa",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibrahim b. Mukhtar",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 1
+            },
+            {
+              "name": "Sha###ba",
+              "value": 1
+            },
+            {
+              "name": "شيبة الضبي",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Jarir",
+          "children": [
+            {
+              "name": "Mughira",
+              "value": 5
+            },
+            {
+              "name": "al-###Amash",
+              "value": 2
+            },
+            {
+              "name": "Yahya b. Sa###id",
+              "value": 2
+            },
+            {
+              "name": "Ata###",
+              "value": 1
+            },
+            {
+              "name": "Ata### b. al-Sa###ib",
+              "value": 1
+            },
+            {
+              "name": "منصور",
+              "value": 1
+            },
+            {
+              "name": "منصور ومغيرة",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Mihran",
+          "children": [
+            {
+              "name": "Ibn Sinan",
+              "value": 1
+            },
+            {
+              "name": "Sufyan",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Salama b. al-Fadl",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 395
+            },
+            {
+              "name": "Muhammad",
+              "value": 4
+            },
+            {
+              "name": "al-Mubarak b. Mujahid",
+              "value": 1
+            },
+            {
+              "name": "Aban b. Ishaq",
+              "value": 1
+            },
+            {
+              "name": "Abu Sinan al-Shaybani",
+              "value": 1
+            },
+            {
+              "name": "Muhammad b. Abi Ishaq",
+              "value": 1
+            },
+            {
+              "name": "Yahya b. al-###Ala###",
+              "value": 1
+            },
+            {
+              "name": "ابن إسحاق أصحابه",
+              "value": 1
+            },
+            {
+              "name": "ابن إسحاق ركب ناقته وأرخى لها الزمام فجعلت لا تمر بدار دور الأنصار إلا دعاه أهلها إلى النزول عندهم",
+              "value": 1
+            },
+            {
+              "name": "ابن إسحاق فكان الله ص",
+              "value": 1
+            },
+            {
+              "name": "ابن إسحاق وأما بنعمة ربك فحدث أي جاءك الله نعمته وكرامته النبوة فحدث اذكرها وادع إليها",
+              "value": 1
+            },
+            {
+              "name": "ابن إسحاق والنصارى يزعمون",
+              "value": 1
+            },
+            {
+              "name": "المبارك بن مجاهد أبو الأزهر",
+              "value": 1
+            },
+            {
+              "name": "امر قصى ابن كلاب وما",
+              "value": 1
+            },
+            {
+              "name": "صاحب يس",
+              "value": 1
+            },
+            {
+              "name": "طلحة بن عمرو الحضرمي",
+              "value": 1
+            },
+            {
+              "name": "محمد بن",
+              "value": 1
+            },
+            {
+              "name": "محمد بن إسحاق بنحو سيف غير",
+              "value": 1
+            },
+            {
+              "name": "محمد بن إسحاق دخل الله ص مكة هرب هبيرة بن أبي وهب المخزومي وعبد الله بن الزبعرى السهمي إلى نجران",
+              "value": 1
+            },
+            {
+              "name": "محمد بن إسحاق نزلت",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ya###qub",
+          "children": [
+            {
+              "name": "Ja###far",
+              "value": 4
+            },
+            {
+              "name": "Hafs b. Humayd",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ya###qub al-Qummi",
+          "children": [
+            {
+              "name": "Ja###far",
+              "value": 2
+            },
+            {
+              "name": "Ja###far b. Abi al-Mughira",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Wadih",
+          "children": [
+            {
+              "name": "a-Husayn",
+              "value": 2
+            },
+            {
+              "name": "Yahya b. Ya###qub",
+              "value": 1
+            },
+            {
+              "name": "Yunus b. Abi Ishaq",
+              "value": 1
+            },
+            {
+              "name": "al-Haytham b. ###Adi",
+              "value": 1
+            },
+            {
+              "name": "عمر ابن ابى زائده",
+              "value": 1
+            },
+            {
+              "name": "فطر",
+              "value": 1
+            },
+            {
+              "name": "Muhammad b. ###Abd Allah",
+              "value": 1
+            },
+            {
+              "name": "Abu Sa######id al-Yahmadi Ismail b. Ibrahim",
+              "value": 1
+            },
+            {
+              "name": "Abu Hamza Muhammad b. Maymun al-Sikri",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hakam b. Bushayr",
+          "children": [
+            {
+              "name": "عمرو ابن قيس الملائي",
+              "value": 2
+            },
+            {
+              "name": "Amr",
+              "value": 1
+            },
+            {
+              "name": "عمر ابن ذر الهمدانى",
+              "value": 1
+            },
+            {
+              "name": "عمرو يعنى ابن قيس الملائي",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "سلمة بن الفضل وعلي بن مجاهد",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 1
+            },
+            {
+              "name": "Salama b. al-Fadl",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "سلمة فلما قضى موسى الأجل خرج",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "سلمة وجميع شهد الأوس معه ومن ضرب له بسهمه واحد وستون رجلا وجميع شهد معه الخزرج مائة وسبعون رجلا",
+          "children": [
+            {
+              "name": "قول",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "سلمة وعلي بن مجاهد",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "سلمه وابو تميمله",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "كنانة بن جبلة",
+          "children": [
+            {
+              "name": "Ibrahim b. Tahman",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn Waki###",
+      "children": [
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 7
+            },
+            {
+              "name": "al-###Amash",
+              "value": 2
+            },
+            {
+              "name": "Isra###il",
+              "value": 1
+            },
+            {
+              "name": "عمر بن ابى زائده",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Da###ud",
+          "children": [
+            {
+              "name": "Ya###qub",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Da###ud al-Hafari",
+          "children": [
+            {
+              "name": "Ya###qub",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Khalid Sulayman b. Hayyan",
+          "children": [
+            {
+              "name": "عثمان بن الأسود",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Mu###awiya",
+          "children": [
+            {
+              "name": "Ibn Abi Khalid",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Amr",
+          "children": [
+            {
+              "name": "Asbat",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "name": "Amr b. Hammad",
+          "children": [
+            {
+              "name": "Asbat",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Amr b. Muhammad",
+          "children": [
+            {
+              "name": "Asbat",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Ibn Abi Ghaniyya",
+          "children": [
+            {
+              "name": "Abihi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Fudayl",
+          "children": [
+            {
+              "name": "Ammara",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Uyayna",
+          "children": [
+            {
+              "name": "Ali b. Zayd",
+              "value": 1
+            },
+            {
+              "name": "Amr b. Dinar",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Isma###il b. ###Aliyya",
+          "children": [
+            {
+              "name": "Ibn Abi Najih",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Bishr",
+          "children": [
+            {
+              "name": "محمد ابن عمرو",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Umran b. ###Uyayna",
+          "children": [
+            {
+              "name": "Ata###",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Sa###id al-Qatan",
+          "children": [
+            {
+              "name": "Sammak b. Harb",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yazid",
+          "children": [
+            {
+              "name": "al-Asbagh b. Zayd",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Zayd b. Habbab",
+          "children": [
+            {
+              "name": "موسى بن عبيدة",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-###Ala### b. ###Abd al-Jabbar",
+          "children": [
+            {
+              "name": "Hammad b. Salama",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Thaqafi",
+          "children": [
+            {
+              "name": "Abd al-Wahhab",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "المحاربي",
+          "children": [
+            {
+              "name": "Da###ud",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "جرير وابن فضيل",
+          "children": [
+            {
+              "name": "عبد الملك",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn al-Muthanna",
+      "children": [
+        {
+          "name": "Abd al-###Ala",
+          "children": [
+            {
+              "name": "Da###ud",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Rahman",
+          "children": [
+            {
+              "name": "Hammad b. Salama",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Rahman b. Mahdi",
+          "children": [
+            {
+              "name": "Hammad b. Zayd",
+              "value": 1
+            },
+            {
+              "name": "Ibrahim",
+              "value": 1
+            },
+            {
+              "name": "Salam b. Abi Muti###",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Samad",
+          "children": [
+            {
+              "name": "Sha###ba",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Wahhab",
+          "children": [
+            {
+              "name": "يحيى ابن سعيد",
+              "value": 2
+            },
+            {
+              "name": "Yahya b. Sa###id",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Ahmad al-Zubayri",
+          "children": [
+            {
+              "name": "مجمع بن يحيى",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Da###ud",
+          "children": [
+            {
+              "name": "Sha###ba",
+              "value": 2
+            },
+            {
+              "name": "Ibrahim",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Hajjaj",
+          "children": [
+            {
+              "name": "Hammad",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Hajjaj b. al-Minhal",
+          "children": [
+            {
+              "name": "Hammad",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Hammad b. Waqid",
+          "children": [
+            {
+              "name": "Thabit",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Abi ###Adi",
+          "children": [
+            {
+              "name": "Da###ud",
+              "value": 3
+            },
+            {
+              "name": "Sha###ba",
+              "value": 2
+            },
+            {
+              "name": "Humayd",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Khalid b. al-Harith",
+          "children": [
+            {
+              "name": "Humayd",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Mu###adh b. Hisham",
+          "children": [
+            {
+              "name": "Abi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Mu###adh b. Mu###adh",
+          "children": [
+            {
+              "name": "Hariz b. ###Uthman",
+              "value": 1
+            },
+            {
+              "name": "Humayd",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Ja###far",
+          "children": [
+            {
+              "name": "Sha###ba",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Shayban",
+          "children": [
+            {
+              "name": "Salam b. Miskin",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Uthman b. ###Umar b. Faris",
+          "children": [
+            {
+              "name": "علي بن المبارك",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Wahb b. Jarir",
+          "children": [
+            {
+              "name": "Abi",
+              "value": 1
+            },
+            {
+              "name": "Sha###ba",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yazid b. Harun",
+          "children": [
+            {
+              "name": "Sufyan b. Husayn",
+              "value": 1
+            },
+            {
+              "name": "al-Jariri",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Dahhak b. Mukhallad",
+          "children": [
+            {
+              "name": "Ibn Jurayj",
+              "value": 1
+            },
+            {
+              "name": "عزرة بن ثابت",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hajjaj",
+          "children": [
+            {
+              "name": "Hammad",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hajjaj b. al-Minhal",
+          "children": [
+            {
+              "name": "Hammad",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hammani",
+          "children": [
+            {
+              "name": "Sharik",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "يحيى بن محمد بن قيس المدني",
+          "children": [
+            {
+              "name": "Rabi###a b. Abi ###Abd al-Rahman",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibrahim b. Sa###id",
+      "children": [
+        {
+          "name": "Musa b. Da###ud",
+          "children": [
+            {
+              "name": "Ibn Layi###a",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Salih",
+          "children": [
+            {
+              "name": "al-Hasan b. Ayyub al-Hadrami",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "روح بن عبادة وسعد بن عبد الحميد بن جعفر",
+          "children": [
+            {
+              "name": "Malik b. Anas",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Isa",
+      "children": [
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "لم يزل أبو القلمس مختفيا بالفرع وبقي زمانا عدا عليه عبد له فشدخ رأسه بصخرة فقتله أتى أم ولد كانت له إني",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abihi",
+          "children": [
+            {
+              "name": "خرج مع محمد حمزة بن عبد الله بن محمد بن علي",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Husayn b. Yazid",
+          "children": [
+            {
+              "name": "أتي بابن هرمز عيسى بعد قتل محمد أيها الشيخ أما وزعك فقهك",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Zayd",
+          "children": [
+            {
+              "name": "قتل محمد انخرقت السماء بالمطر بما لم أر",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "مولى لهشام بن عمارة بن الوليد بن عدى ابن الخيار",
+          "children": [
+            {
+              "name": "كنا مع محمد فتقدم هشام بن عمارة إليه",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ja###far",
+      "children": [
+        {
+          "name": "عمرو وعلي",
+          "children": [
+            {
+              "name": "Husayn",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "عمرو وعلي بن حسين",
+          "children": [
+            {
+              "name": "Abihi",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. ###Abd al-A###la",
+      "children": [
+        {
+          "name": "Ibn Thawr",
+          "children": [
+            {
+              "name": "Ma###mar",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Mu###tamir",
+          "children": [
+            {
+              "name": "Abihi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Thawr",
+          "children": [
+            {
+              "name": "Ma###mar",
+              "value": 5
+            },
+            {
+              "name": "al-Hasan b. Yahya",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yazid b. Zari###",
+          "children": [
+            {
+              "name": "Ma###mar",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Mu###tamir b. Sulayman",
+          "children": [
+            {
+              "name": "Abihi",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. ###Amr",
+      "children": [
+        {
+          "name": "Abu ###Asim",
+          "children": [
+            {
+              "name": "Isa",
+              "value": 7
+            },
+            {
+              "name": "عيسى بن ميمون",
+              "value": 1
+            },
+            {
+              "name": "عيسى ابن ميمون",
+              "value": 1
+            },
+            {
+              "name": "عيسى ابن أبي نجيح",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. ###Abd al-Rahman",
+          "children": [
+            {
+              "name": "عائشة توفيت خديجة خولة بنت حكيم بن أمية بن الأوقص امرأة عثمان بن مظعون وذلك",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. Isma###il",
+      "children": [
+        {
+          "name": "Abu Nu###aym",
+          "children": [
+            {
+              "name": "Yunus b. Abi Ishaq",
+              "value": 1
+            },
+            {
+              "name": "Hibban b. ###Ali al-###Izzi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Amr b. ###Uthman al-Himsi",
+          "children": [
+            {
+              "name": "Abi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Abi Malika",
+          "children": [
+            {
+              "name": "أرسل محمد إلى إسماعيل بن عبد الله بن جعفر",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Qutayba b. Sa###id",
+          "children": [
+            {
+              "name": "Nuh b. Qays",
+              "value": 1
+            },
+            {
+              "name": "Khalid b. Hayyan Abu Yazid al-Kharraz",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Sa###id b. Abi Maryam",
+          "children": [
+            {
+              "name": "Abd al-Rahman b. ###Abd Allah b. ###Abd al-Hakam",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "الثقة عنده",
+          "children": [
+            {
+              "name": "فتح بنو ابى عمرو الغفاريون للمسودة طريقا",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. Sa###d",
+      "children": [
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "Ammi",
+              "value": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. Sahl b. ###Askar",
+      "children": [
+        {
+          "name": "Isma###il b. ###Abd al-Karim",
+          "children": [
+            {
+              "name": "Abd al-Samad",
+              "value": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. Yahya",
+      "children": [
+        {
+          "name": "al-Harith b. Ishaq",
+          "children": [
+            {
+              "name": "برك محمد يومئذ لركبتيه وجعل يذب",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. al-Husayn",
+      "children": [
+        {
+          "name": "Ahmad b. al-Mufaddal",
+          "children": [
+            {
+              "name": "Asbat",
+              "value": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Musa b. Harun",
+      "children": [
+        {
+          "name": "Amr b. Hammad",
+          "children": [
+            {
+              "name": "Asbat",
+              "value": 23
+            },
+            {
+              "name": "al-Sadi",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sa###id b. Abi Maryam",
+      "children": [
+        {
+          "name": "Amr",
+          "children": [
+            {
+              "name": "Asbat",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Amr b. Hammad",
+          "children": [
+            {
+              "name": "Asbat",
+              "value": 6
+            },
+            {
+              "name": "Asbat b. Nasr",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tamim b. al-Muntasir",
+      "children": [
+        {
+          "name": "Ishaq",
+          "children": [
+            {
+              "name": "Sharik",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Yazid",
+          "children": [
+            {
+              "name": "Isma###il",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ubayd Allah",
+      "children": [
+        {
+          "name": "Ammi",
+          "children": [
+            {
+              "name": "Sayf b. ###Umar",
+              "value": 23
+            },
+            {
+              "name": "سيف والسري",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "عمي يعقوب",
+          "children": [
+            {
+              "name": "Sayf b. ###Umar",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ubayd Allah b. Sa###d al-Zuhri",
+      "children": [
+        {
+          "name": "Ammi",
+          "children": [
+            {
+              "name": "Sayf b. ###Umar",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "عمي يعقوب بن إبراهيم",
+          "children": [
+            {
+              "name": "Sayf b. ###Umar",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Umar",
+      "children": [
+        {
+          "name": "Abu ###Asim al-Nubayl",
+          "children": [
+            {
+              "name": "عمرو بن الزبير وخلاد بن يزيد الباهلي والوليد بن هشام",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu ###Ubayda",
+          "children": [
+            {
+              "name": "زياد يومئذ على المنبر",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Bakr al-Hudhali",
+          "children": [
+            {
+              "name": "Qatada",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu al-Hasan",
+          "children": [
+            {
+              "name": "Abu Mikhnaf",
+              "value": 4
+            },
+            {
+              "name": "Abu Layla",
+              "value": 3
+            },
+            {
+              "name": "Bushayr b. ###Asim",
+              "value": 2
+            },
+            {
+              "name": "ابن عامر لينا سهلا سهل الولاية لا يعاقب",
+              "value": 1
+            },
+            {
+              "name": "المفضل الراوية وعامر بن حفص وعبد المجيد الأسدي قالوا جرح يوم الجمل عمير بن الأهلب الضبي فمر أصحاب علي",
+              "value": 1
+            },
+            {
+              "name": "رجاله",
+              "value": 1
+            },
+            {
+              "name": "شيخ بني هاشم",
+              "value": 1
+            },
+            {
+              "name": "عمر بن راشد اليمامي",
+              "value": 1
+            },
+            {
+              "name": "al-Mufaddal al-Dabbi",
+              "value": 1
+            },
+            {
+              "name": "Ayyub b. Musa",
+              "value": 1
+            },
+            {
+              "name": "Abu Muhammad",
+              "value": 1
+            },
+            {
+              "name": "Ali b. Mujahid",
+              "value": 1
+            },
+            {
+              "name": "Awana",
+              "value": 1
+            },
+            {
+              "name": "Hibban b. Musa",
+              "value": 1
+            },
+            {
+              "name": "al-Salt b. Dinar",
+              "value": 1
+            },
+            {
+              "name": "Maslama b. Muharib",
+              "value": 1
+            },
+            {
+              "name": "Sulayman b. Arqam",
+              "value": 1
+            },
+            {
+              "name": "al-Hudhali",
+              "value": 1
+            },
+            {
+              "name": "Abu Bakr al-Hudhali",
+              "value": 1
+            },
+            {
+              "name": "Abu ###Abd Allah al-Qurashi",
+              "value": 1
+            },
+            {
+              "name": "Abd al-Malik b. ###Abd Allah al-Thaqafi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu al-Hasan ###Ali",
+          "children": [
+            {
+              "name": "Abu Bakr al-Hudhali",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu al-Qasim",
+          "children": [
+            {
+              "name": "Salama b. ###Uthman",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ahmad b. Zuhayr",
+          "children": [
+            {
+              "name": "Ali b. Muhammad",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Muhammad",
+          "children": [
+            {
+              "name": "Maslama b. Muharib",
+              "value": 5
+            },
+            {
+              "name": "عيسى بن يزيد",
+              "value": 2
+            },
+            {
+              "name": "وفد عبيد الله بن زياد",
+              "value": 1
+            },
+            {
+              "name": "Abd Allah",
+              "value": 1
+            },
+            {
+              "name": "مسلمة والهذلي وغيرهما",
+              "value": 1
+            },
+            {
+              "name": "قتل ابن الحضرمي واختلف الناس على علي طمع أهل فارس وأهل كرمان",
+              "value": 1
+            },
+            {
+              "name": "Abu ###Abd Allah al-Barjami",
+              "value": 1
+            },
+            {
+              "name": "Abu Muhammad b. Dhakwan al-Qurashi",
+              "value": 1
+            },
+            {
+              "name": "Abu Bakr al-Bakri",
+              "value": 1
+            },
+            {
+              "name": "Abu Isma###il al-Hamadani",
+              "value": 1
+            },
+            {
+              "name": "استخلف معاوية بن يزيد وجمع عمال أبيه وبويع له",
+              "value": 1
+            },
+            {
+              "name": "القافلانى",
+              "value": 1
+            },
+            {
+              "name": "النفر الذين ذكرت روايتهم عنهم",
+              "value": 1
+            },
+            {
+              "name": "الوليد بن عبد الملك عند أهل الشام أفضل خلائفهم بنى المساجد مسجد دمشق ومسجد المدينة ووضع المنار وأعطى الناس وأعطى المجذمين",
+              "value": 1
+            },
+            {
+              "name": "بايع أهل الشام معاوية بالخلافة",
+              "value": 1
+            },
+            {
+              "name": "كليب بن خلف العمي",
+              "value": 1
+            },
+            {
+              "name": "ببة قد تناول",
+              "value": 1
+            },
+            {
+              "name": "كليب بن خلف",
+              "value": 1
+            },
+            {
+              "name": "بعض",
+              "value": 1
+            },
+            {
+              "name": "خطب بسر على منبر",
+              "value": 1
+            },
+            {
+              "name": "زياد إلى معاوية",
+              "value": 1
+            },
+            {
+              "name": "سلم الحسن بن على ع إلى معاوية الكوفة ودخلها معاوية لخمس بقين ربيع الأول ويقال جمادى الأولى سنه احدى واربعين",
+              "value": 1
+            },
+            {
+              "name": "ضعف ابن عامر",
+              "value": 1
+            },
+            {
+              "name": "عبد الله بن داود الواسطي",
+              "value": 1
+            },
+            {
+              "name": "عبد ربه",
+              "value": 1
+            },
+            {
+              "name": "عزل ابن الزبير حمزة احتمل مالا كثيرا مال البصرة فعرض له مالك بن مسمع لا ندعك تخرج باعطياتنا فضمن له",
+              "value": 1
+            },
+            {
+              "name": "عزل زياد أنسا وولي مكانه خليد بن عبد الله الحنفي",
+              "value": 1
+            },
+            {
+              "name": "عزل معاوية ابن عامر وولى الحارث بن عبد الله الأزدي البصرة",
+              "value": 1
+            },
+            {
+              "name": "عمر بن مجاشع",
+              "value": 1
+            },
+            {
+              "name": "قفل الحكم بن عمرو غزوة جبل الأشل ولي المهلب ساقته فسلكوا",
+              "value": 1
+            },
+            {
+              "name": "قتل مصعب يوم الثلاثاء لثلاث عشرة خلت جمادى الأولى أو الآخرة",
+              "value": 1
+            },
+            {
+              "name": "محمد بن صالح",
+              "value": 1
+            },
+            {
+              "name": "ابن دأب وسعيد بن خالد",
+              "value": 1
+            },
+            {
+              "name": "Ishaq b. Yahya b. Talha",
+              "value": 1
+            },
+            {
+              "name": "Abu Ma###shar",
+              "value": 1
+            },
+            {
+              "name": "غزا الربيع فقطع النهر ومعه غلامه فروخ وجاريته شريفة فغنم وسلم فأعتق فروخا",
+              "value": 1
+            },
+            {
+              "name": "مسلمة بن محارب ومحمد بن أبان القرشي",
+              "value": 1
+            },
+            {
+              "name": "Abu al-Walid al-Makki",
+              "value": 1
+            },
+            {
+              "name": "Ali b. Mujahid",
+              "value": 1
+            },
+            {
+              "name": "Awana",
+              "value": 1
+            },
+            {
+              "name": "Ibn Da###b",
+              "value": 1
+            },
+            {
+              "name": "Ibrahim b. Muhammad",
+              "value": 1
+            },
+            {
+              "name": "Ishaq b. Khulayd",
+              "value": 1
+            },
+            {
+              "name": "ابن الزبير عمر ابن عبيد الله بن معمر التيمي بعهده على البصرة ووجه إليه فوافقه",
+              "value": 1
+            },
+            {
+              "name": "Ja###far al-Sadafi",
+              "value": 1
+            },
+            {
+              "name": "Salama b. ###Uthman",
+              "value": 1
+            },
+            {
+              "name": "مسلمة بن محارب وعبد الرحمن ابن أبان القرشي",
+              "value": 1
+            },
+            {
+              "name": "أبو عبد الرحمن الثقفي ومحمد بن الفضل",
+              "value": 1
+            },
+            {
+              "name": "مسلمة بن محارب وابن أبي عمرو شيخ الأزد",
+              "value": 1
+            },
+            {
+              "name": "أبو مخنف وأبو عبد الرحمن الأصبهاني وسلمة بن عثمان وشيخ بني تميم وغيرهم ممن يوثق بهم",
+              "value": 1
+            },
+            {
+              "name": "مسلمة بن",
+              "value": 1
+            },
+            {
+              "name": "أول المسلمين شرب النهر مولى للحكم اغترف بترسه فشرب ناول الحكم فشرب وتوضأ وصلى وراء النهر ركعتين",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Hatim b. Qubaysa",
+          "children": [
+            {
+              "name": "غالب ابن سليمان",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Khallad b. Yazid",
+          "children": [
+            {
+              "name": "يخبر",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Yahya",
+          "children": [
+            {
+              "name": "هشام بن الوليد",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Musa b. Isma###il",
+          "children": [
+            {
+              "name": "Nuh b. Qays",
+              "value": 1
+            },
+            {
+              "name": "Sulayman b. Muslim al-###Ajli",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Zuhayr",
+          "children": [
+            {
+              "name": "Wahb",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Zuhayr b. Harb",
+          "children": [
+            {
+              "name": "Wahb b. Jarir",
+              "value": 3
+            },
+            {
+              "name": "al-Aswad b. Shayban",
+              "value": 1
+            },
+            {
+              "name": "وهب بن حماد",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "الوليد بن هشام وعلي بن محمد",
+          "children": [
+            {
+              "name": "واختلفا",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "كتابه الذي سماه كتاب أخبار أهل البصرة",
+          "children": [
+            {
+              "name": "Abu al-Hasan al-Mada###ini",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Umar b. Shibba",
+      "children": [
+        {
+          "name": "Abu al-Hasan",
+          "children": [
+            {
+              "name": "Abu Mikhnaf",
+              "value": 4
+            },
+            {
+              "name": "Bashir b. ###Asim",
+              "value": 2
+            },
+            {
+              "name": "Abu ###Amr",
+              "value": 1
+            },
+            {
+              "name": "Ali b. Mujahid",
+              "value": 1
+            },
+            {
+              "name": "Bushayr b. ###Asim",
+              "value": 1
+            },
+            {
+              "name": "Ja###far b. Sulayman",
+              "value": 1
+            },
+            {
+              "name": "Maslama b. Muharib",
+              "value": 1
+            },
+            {
+              "name": "al-Mufaddal b. Muhammad",
+              "value": 1
+            },
+            {
+              "name": "عامر بن حفص",
+              "value": 1
+            },
+            {
+              "name": "محمد ابن الفضل بن عطية الخراساني",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu al-Hasan al-Mada###ini",
+          "children": [
+            {
+              "name": "Maslama b. Muharib",
+              "value": 1
+            },
+            {
+              "name": "سحيم مولى وبرة التميمي",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Muhammad",
+          "children": [
+            {
+              "name": "Maslama b. Muharib",
+              "value": 2
+            },
+            {
+              "name": "Ali b. Mujahid",
+              "value": 2
+            },
+            {
+              "name": "أقبل عبد الملك الشام يريد مصعبا وذلك هذه السنة",
+              "value": 1
+            },
+            {
+              "name": "القوم الذين ذكرتهم فيه",
+              "value": 1
+            },
+            {
+              "name": "خالد بن الوليد أتى الأنبار فصالحوه على الجلاء اعطوه شيئا رضى وأنه أغار على",
+              "value": 1
+            },
+            {
+              "name": "زياد على البصرة وأعمالها إلى",
+              "value": 1
+            },
+            {
+              "name": "زياد وعلى البصرة سمرة بن جندب خليفة له وعلى الكوفة عبد الله بن خالد بن أسيد فأقر سمرة على البصرة ثمانية عشر",
+              "value": 1
+            },
+            {
+              "name": "شيوخه الذين مضى ذكرهم",
+              "value": 1
+            },
+            {
+              "name": "صالح الحسن بن على ع معاوية أول",
+              "value": 1
+            },
+            {
+              "name": "مسلمة وعوانة",
+              "value": 1
+            },
+            {
+              "name": "يزيد بن عاتكة فتيانهم طرب وعنده حبابة وسلامة دعوني أطير فقالت حبابة إلى تدع الأمة فلما",
+              "value": 1
+            },
+            {
+              "name": "استعان زياد بعدة اصحاب النبي ص منهم عمران بن الحصين الخزاعي ولاه قضاء البصرة والحكم بن عمرو الغفاري ولاه خراسان",
+              "value": 1
+            },
+            {
+              "name": "أبي معشر ويزيد بن عياض بن جعد وغسان بن عبد الحميد وجويرية بن أسماء",
+              "value": 1
+            },
+            {
+              "name": "أبو محمد القرشي وأبو محمد الزيادي والمنهال بن عبد الملك وسحيم بن حفص العجيفي قالوا ولد هشام بن عبد الملك عام قتل",
+              "value": 1
+            },
+            {
+              "name": "Abu Bakr al-Hudhali",
+              "value": 1
+            },
+            {
+              "name": "Abu Mikhnaf",
+              "value": 1
+            },
+            {
+              "name": "Abu al-Dhiyal",
+              "value": 1
+            },
+            {
+              "name": "Abu al-Walid al-Makki",
+              "value": 1
+            },
+            {
+              "name": "Awana",
+              "value": 1
+            },
+            {
+              "name": "Hibban b. Musa",
+              "value": 1
+            },
+            {
+              "name": "Ibn Ja###daba",
+              "value": 1
+            },
+            {
+              "name": "Salih",
+              "value": 1
+            },
+            {
+              "name": "Suhaym b. Hafs",
+              "value": 1
+            },
+            {
+              "name": "Sulayman b. Arqam",
+              "value": 1
+            },
+            {
+              "name": "Waki###",
+              "value": 1
+            },
+            {
+              "name": "أبو إسماعيل الهمداني وأبو مخنف",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Hatim b. Qubaysa",
+          "children": [
+            {
+              "name": "غالب بن سليمان",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Yahya",
+          "children": [
+            {
+              "name": "هشام بن الوليد المخزومي",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Musa b. Isma###il",
+          "children": [
+            {
+              "name": "Hammad b. Salama",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Zuhayr b. Harb",
+          "children": [
+            {
+              "name": "Wahb b. Jarir",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "أبو عبيدة وأبو الحسن المدائني وغيرهما",
+          "children": [
+            {
+              "name": "الفرزدق هجا بني نهشل وبني فقيم لم يزد أبو زيد",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "جماعة",
+          "children": [
+            {
+              "name": "Abu Mikhnaf",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "زعموا",
+          "children": [
+            {
+              "name": "رجلا عبد القيس",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ya###qub",
+      "children": [
+        {
+          "name": "Hashim",
+          "children": [
+            {
+              "name": "Ali b. Zayd",
+              "value": 1
+            },
+            {
+              "name": "زكرياء وشعبة",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn ###Aliyya",
+          "children": [
+            {
+              "name": "Da###ud",
+              "value": 2
+            },
+            {
+              "name": "Layth",
+              "value": 1
+            },
+            {
+              "name": "داود بن أبي هند أي ابني إبراهيم أمر بذبحه فزعم",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Isma###il",
+          "children": [
+            {
+              "name": "Ayyub",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Sa###id",
+          "children": [
+            {
+              "name": "عبد الله بن مبارك",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "هشم",
+          "children": [
+            {
+              "name": "Awf",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ya###qub b. Ibrahim",
+      "children": [
+        {
+          "name": "Hashim",
+          "children": [
+            {
+              "name": "Abu Muhammad",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn ###Aliyya",
+          "children": [
+            {
+              "name": "Abu Rija###",
+              "value": 1
+            },
+            {
+              "name": "Awf",
+              "value": 1
+            },
+            {
+              "name": "Ibn Ishaq",
+              "value": 1
+            },
+            {
+              "name": "Sa###id b. Abi Sadaqa",
+              "value": 1
+            },
+            {
+              "name": "Yunus",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Idris",
+          "children": [
+            {
+              "name": "ليثا",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Isma###il",
+          "children": [
+            {
+              "name": "Ayyub",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Isma###il b. Ibrahim",
+          "children": [
+            {
+              "name": "Yunus",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Mu###tamir b. Sulayman al-Taymi",
+          "children": [
+            {
+              "name": "Abi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Sa###id",
+          "children": [
+            {
+              "name": "Abd Allah b. Mubarak",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yunus",
+      "children": [
+        {
+          "name": "Ibn Wahb",
+          "children": [
+            {
+              "name": "Ibn Zayd",
+              "value": 6
+            },
+            {
+              "name": "عبد الرحمن ابن مهدي",
+              "value": 1
+            },
+            {
+              "name": "ابن زيد نزلت الملائكة بالتابوت نهارا ينظرون إليه عيانا حتى وضعوه بين أظهرهم",
+              "value": 1
+            },
+            {
+              "name": "Abu Sakhr",
+              "value": 1
+            },
+            {
+              "name": "Ibn Jurayj",
+              "value": 1
+            },
+            {
+              "name": "Ibn Shurayh",
+              "value": 1
+            },
+            {
+              "name": "Yunus",
+              "value": 1
+            },
+            {
+              "name": "Yunus b. Yazid",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yunus b. ###Abd al-A###la",
+      "children": [
+        {
+          "name": "Ibn Wahb",
+          "children": [
+            {
+              "name": "Ibn Zayd",
+              "value": 3
+            },
+            {
+              "name": "Ibn Layi###a",
+              "value": 2
+            },
+            {
+              "name": "Jarir b. Hazim",
+              "value": 1
+            },
+            {
+              "name": "Yunus",
+              "value": 1
+            },
+            {
+              "name": "عمر بن قيس",
+              "value": 1
+            },
+            {
+              "name": "Sa###id b. ###Abd al-Rahman al-Jamhi",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Sufyan",
+          "children": [
+            {
+              "name": "Yahya",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Wahb",
+          "children": [
+            {
+              "name": "Ibn Abi Dhi###b",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. ###Abd Allah b. Bukayr",
+          "children": [
+            {
+              "name": "al-Layth b. Sa###d",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-###Abbas b. al-Walid",
+      "children": [
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "al-Awza###i",
+              "value": 3
+            },
+            {
+              "name": "Isma###il b. ###Iyash",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Harith",
+      "children": [
+        {
+          "name": "Abd al-###Aziz",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 3
+            },
+            {
+              "name": "Mubarak b. Fadala",
+              "value": 1
+            },
+            {
+              "name": "Ja###far b. Sulayman",
+              "value": 1
+            },
+            {
+              "name": "Ja###far b. Sulayman al-Diba###i",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Muhammad",
+          "children": [
+            {
+              "name": "أبو إسماعيل الهمداني وعلي بن مجاهد",
+              "value": 1
+            },
+            {
+              "name": "Maslama b. Muharib",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Sa###d",
+          "children": [
+            {
+              "name": "Muhammad b. ###Umar",
+              "value": 69
+            },
+            {
+              "name": "Hisham",
+              "value": 12
+            },
+            {
+              "name": "Hisham b. Muhammad al-Kalbi",
+              "value": 7
+            },
+            {
+              "name": "al-Waqidi",
+              "value": 5
+            },
+            {
+              "name": "Ali b. Muhammad",
+              "value": 1
+            },
+            {
+              "name": "Muhammad",
+              "value": 1
+            },
+            {
+              "name": "Muslim b. Ibrahim",
+              "value": 1
+            },
+            {
+              "name": "Sulayman b. Harb",
+              "value": 1
+            },
+            {
+              "name": "عتاب بن زياد",
+              "value": 1
+            },
+            {
+              "name": "محمد بن عمر الواقدي الثبت عندنا",
+              "value": 1
+            },
+            {
+              "name": "محمد بن عمر الواقدي ولد ابن الزبير بعد الهجرة بعشرين شهرا بالمدينة",
+              "value": 1
+            },
+            {
+              "name": "محمد بن عمر انهزم أصحاب عيسى بن موسى وثبت عيسى مكانه أقبل إبراهيم بن عبد الله",
+              "value": 1
+            },
+            {
+              "name": "محمد بن عمر وهشام ابن محمد",
+              "value": 1
+            },
+            {
+              "name": "محمد بن مصعب القرقساني",
+              "value": 1
+            },
+            {
+              "name": "يعقوب بن إبراهيم بن سعد",
+              "value": 1
+            },
+            {
+              "name": "Abu Bakr b. ###Abd Allah b. Abi Uways",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Sa###d",
+          "children": [
+            {
+              "name": "Muhammad b. ###Umar",
+              "value": 19
+            },
+            {
+              "name": "Hisham b. Muhammad al-Kalbi",
+              "value": 4
+            },
+            {
+              "name": "هشام بن",
+              "value": 3
+            },
+            {
+              "name": "Abu ###Ubayda",
+              "value": 1
+            },
+            {
+              "name": "Hisham",
+              "value": 1
+            },
+            {
+              "name": "Muhammad",
+              "value": 1
+            },
+            {
+              "name": "al-Waqidi",
+              "value": 1
+            },
+            {
+              "name": "محمد بن عمر الأسلمي",
+              "value": 1
+            },
+            {
+              "name": "معاذ بن معاذ ومحمد بن عبد الله الأنصاري",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hasan",
+          "children": [
+            {
+              "name": "Waraqa###",
+              "value": 3
+            },
+            {
+              "name": "Abu Hilal",
+              "value": 1
+            },
+            {
+              "name": "خلف بن خليفة",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hasan b. Musa al-Ashib",
+          "children": [
+            {
+              "name": "Abu Hilal Muhammad Salim",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Qasim",
+          "children": [
+            {
+              "name": "Hajjaj",
+              "value": 1
+            },
+            {
+              "name": "علي بن ثابت",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Harith b. Muhammad",
+      "children": [
+        {
+          "name": "Ali b. Muhammad",
+          "children": [
+            {
+              "name": "Abu ###Amr",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ibn Sa###d",
+          "children": [
+            {
+              "name": "Hisham b. Muhammad al-Kalbi",
+              "value": 2
+            },
+            {
+              "name": "Muhammad b. ###Umar",
+              "value": 2
+            },
+            {
+              "name": "Hisham",
+              "value": 1
+            },
+            {
+              "name": "محمد ابن عمر كانت سرايا الله ص ثمانيا وأربعين سرية",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Sa###d",
+          "children": [
+            {
+              "name": "Muhammad b. ###Umar",
+              "value": 3
+            },
+            {
+              "name": "محمد بن عمر بن واقد الأسلمي",
+              "value": 1
+            },
+            {
+              "name": "Hisham b. Muhammad al-Kalbi",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Hasan b. Muhammad",
+      "children": [
+        {
+          "name": "Da###ud b. Mihran",
+          "children": [
+            {
+              "name": "Abd al-Wahid b. Ziyad",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Hajjaj b. Muhammad",
+          "children": [
+            {
+              "name": "Ibn Jurayj",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Abi ###Adi",
+          "children": [
+            {
+              "name": "Sha###ba",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Shibaba",
+          "children": [
+            {
+              "name": "Waraqa###",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. ###Abad",
+          "children": [
+            {
+              "name": "Hammad b. Salama",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Hasan b. Yahya",
+      "children": [
+        {
+          "name": "Abd al-Razzaq",
+          "children": [
+            {
+              "name": "Ma###mar",
+              "value": 7
+            },
+            {
+              "name": "al-Thawri",
+              "value": 1
+            },
+            {
+              "name": "عمر بن عبد الرحمن بن مهرب",
+              "value": 1
+            },
+            {
+              "name": "معمر عمن سمع الحسن",
+              "value": 1
+            },
+            {
+              "name": "هشام بن حسان",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu ###Amir",
+          "children": [
+            {
+              "name": "Ikrima b. ###Ammar al-Yamami",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Muthanna",
+      "children": [
+        {
+          "name": "Abd al-Rahman b. Abi Hammad",
+          "children": [
+            {
+              "name": "al-Hakam b. Zuhayr",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Abu Hudhayfa",
+          "children": [
+            {
+              "name": "شبل",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Abu Salih",
+          "children": [
+            {
+              "name": "Abu Ma###shar",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "Ali b. Muhammad",
+          "children": [
+            {
+              "name": "al-Musayyib b. Sharik",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ishaq",
+          "children": [
+            {
+              "name": "Isma###il b. ###Abd al-Karim",
+              "value": 2
+            },
+            {
+              "name": "Abd al-Razzaq",
+              "value": 1
+            },
+            {
+              "name": "محمد بن حرب",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Ishaq b. al-Hajjaj",
+          "children": [
+            {
+              "name": "Abd Allah b. Abi Ja###far",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Muslim b. Ibrahim",
+          "children": [
+            {
+              "name": "هارون النحوي",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Suwayd",
+          "children": [
+            {
+              "name": "ابن المبارك",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hajjaj",
+          "children": [
+            {
+              "name": "Abu ###Awana",
+              "value": 2
+            },
+            {
+              "name": "Hammad",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Hammani",
+          "children": [
+            {
+              "name": "Ubayd Allah b. al-Wazi###",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Qasim",
+      "children": [
+        {
+          "name": "a-Husayn",
+          "children": [
+            {
+              "name": "Hajjaj",
+              "value": 19
+            },
+            {
+              "name": "Abu Sufyan",
+              "value": 1
+            },
+            {
+              "name": "Abu Thumayla",
+              "value": 1
+            },
+            {
+              "name": "Mu###tamir b. Sulayman al-Taymi",
+              "value": 1
+            },
+            {
+              "name": "al-Hajjaj",
+              "value": 1
+            },
+            {
+              "name": "علي بن هاشم ابن البريد",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "al-Husayn b. Da###ud",
+          "children": [
+            {
+              "name": "Hajjaj",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Qasim b. al-Hasan",
+      "children": [
+        {
+          "name": "a-Husayn",
+          "children": [
+            {
+              "name": "Hajjaj",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "al-Husayn b. Da###ud",
+          "children": [
+            {
+              "name": "Hajjaj",
+              "value": 5
+            },
+            {
+              "name": "مبشر الحلبي",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Sari",
+      "children": [
+        {
+          "name": "Shu###ayb b. Ibrahim",
+          "children": [
+            {
+              "name": "Sayf b. ###Umar",
+              "value": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
