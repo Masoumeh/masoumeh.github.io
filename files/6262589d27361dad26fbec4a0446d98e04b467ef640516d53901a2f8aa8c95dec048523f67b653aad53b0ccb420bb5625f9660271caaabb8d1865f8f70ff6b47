@@ -1,5 +1,5 @@
 {
-  "name": "flare",
+  "name": "Tabari",
   "children": [
     {
       "name": "Abd Allah",
@@ -40,7 +40,7 @@
           ]
         },
         {
-          "name": "Sufyan b. ###Uyayna",
+          "name": "Sufyan b. 'Uyayna",
           "children": [
             {
               "name": "Mujallad",
@@ -92,19 +92,19 @@
       ]
     },
     {
-      "name": "Abd al-Rahman b. ###Abd Allah b. ###Abd al-Hakam",
+      "name": "Abd al-Rahman b. 'Abd Allah b. 'Abd al-Hakam",
       "children": [
         {
           "name": "Abd al-Malik b. Maslama",
           "children": [
             {
-              "name": "Ibn Layi###a",
+              "name": "Ibn Layi'a",
               "value": 1
             }
           ]
         },
         {
-          "name": "Abu Zur###a",
+          "name": "Abu Zur'a",
           "children": [
             {
               "name": "Yunus",
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "name": "Ali b. Ma###bad",
+          "name": "Ali b. Ma'bad",
           "children": [
             {
               "name": "عبيد الله بن عمرو",
@@ -122,7 +122,7 @@
           ]
         },
         {
-          "name": "Nu###aym b. Hammad",
+          "name": "Nu'aym b. Hammad",
           "children": [
             {
               "name": "الدراوردي",
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "name": "Ya###qub b. Ishaq b. Abi ###Abbad",
+          "name": "Ya'qub b. Ishaq b. Abi 'Abbad",
           "children": [
             {
               "name": "محمد بن مسلم الطائفي",
@@ -157,7 +157,7 @@
           "name": "Abihi",
           "children": [
             {
-              "name": "Ibn ###Abbas",
+              "name": "Ibn 'Abbas",
               "value": 2
             },
             {
@@ -180,7 +180,7 @@
           ]
         },
         {
-          "name": "Khirash b. al-Mughira b. ###Atiyya",
+          "name": "Khirash b. al-Mughira b. 'Atiyya",
           "children": [
             {
               "name": "Abihi",
@@ -189,7 +189,7 @@
           ]
         },
         {
-          "name": "Musa b. ###Abd Allah",
+          "name": "Musa b. 'Abd Allah",
           "children": [
             {
               "name": "حبسنا ضاق الحبس بنا فسأل أبي رياحا",
@@ -246,7 +246,7 @@
           "name": "أبان العطار",
           "children": [
             {
-              "name": "Hisham b. ###Urwa",
+              "name": "Hisham b. 'Urwa",
               "value": 1
             }
           ]
@@ -305,7 +305,7 @@
           "name": "Abd al-Humayd al-Hammani",
           "children": [
             {
-              "name": "al-Nadr Abu ###Umar al-Khazzaz",
+              "name": "al-Nadr Abu 'Umar al-Khazzaz",
               "value": 1
             }
           ]
@@ -314,13 +314,13 @@
           "name": "Abu Bakr",
           "children": [
             {
-              "name": "al-Ashja###i",
+              "name": "al-Ashja'i",
               "value": 1
             }
           ]
         },
         {
-          "name": "Abu Bakr b. ###Iyash",
+          "name": "Abu Bakr b. 'Iyash",
           "children": [
             {
               "name": "Abu Hasin",
@@ -337,16 +337,16 @@
           ]
         },
         {
-          "name": "Abu Mu###awiya",
+          "name": "Abu Mu'awiya",
           "children": [
             {
-              "name": "al-###Amash",
+              "name": "al-'Amash",
               "value": 1
             }
           ]
         },
         {
-          "name": "Abu Nu###aym",
+          "name": "Abu Nu'aym",
           "children": [
             {
               "name": "يونس بن إسحاق",
@@ -366,22 +366,22 @@
               "value": 2
             },
             {
-              "name": "al-###Amash",
+              "name": "al-'Amash",
               "value": 1
             }
           ]
         },
         {
-          "name": "Atham b. ###Ali",
+          "name": "Atham b. 'Ali",
           "children": [
             {
-              "name": "al-###Amash",
+              "name": "al-'Amash",
               "value": 1
             }
           ]
         },
         {
-          "name": "Hasan b. ###Atiyya",
+          "name": "Hasan b. 'Atiyya",
           "children": [
             {
               "name": "قيس",
@@ -399,7 +399,7 @@
           ]
         },
         {
-          "name": "Ibn ###Atiyya",
+          "name": "Ibn 'Atiyya",
           "children": [
             {
               "name": "قيس",
@@ -415,11 +415,11 @@
               "value": 1
             },
             {
-              "name": "Isma###il b. Abi Khalid",
+              "name": "Isma'il b. Abi Khalid",
               "value": 1
             },
             {
-              "name": "Isma###il b. Sumay###a",
+              "name": "Isma'il b. Sumay'a",
               "value": 1
             },
             {
@@ -436,7 +436,7 @@
           "name": "Ibn Yaman",
           "children": [
             {
-              "name": "Isra###il",
+              "name": "Isra'il",
               "value": 3
             },
             {
@@ -463,10 +463,10 @@
           ]
         },
         {
-          "name": "Ja###far b. ###Awn",
+          "name": "Ja'far b. 'Awn",
           "children": [
             {
-              "name": "Ibrahim b. Isma###il",
+              "name": "Ibrahim b. Isma'il",
               "value": 1
             }
           ]
@@ -475,11 +475,11 @@
           "name": "Jabir b. Nuh",
           "children": [
             {
-              "name": "al-###Amash",
+              "name": "al-'Amash",
               "value": 3
             },
             {
-              "name": "Isma###il b. Abi Khalid",
+              "name": "Isma'il b. Abi Khalid",
               "value": 1
             }
           ]
@@ -492,13 +492,13 @@
               "value": 1
             },
             {
-              "name": "Muhammad b. Ja###far",
+              "name": "Muhammad b. Ja'far",
               "value": 1
             }
           ]
         },
         {
-          "name": "Mu###awiya b. Hisham",
+          "name": "Mu'awiya b. Hisham",
           "children": [
             {
               "name": "Sufyan",
@@ -507,7 +507,7 @@
           ]
         },
         {
-          "name": "Mus###ab b. al-Miqdam",
+          "name": "Mus'ab b. al-Miqdam",
           "children": [
             {
               "name": "Hammad b. Salama",
@@ -516,7 +516,7 @@
           ]
         },
         {
-          "name": "Sufyan b. ###Aqaba",
+          "name": "Sufyan b. 'Aqaba",
           "children": [
             {
               "name": "Hamza al-Ziyyat",
@@ -528,29 +528,29 @@
           "name": "Ubayd Allah b. Musa",
           "children": [
             {
-              "name": "Muhammad b. Isma###il al-Ahmasi",
+              "name": "Muhammad b. Isma'il al-Ahmasi",
               "value": 1
             }
           ]
         },
         {
-          "name": "Ubayd b. Sa###id",
+          "name": "Ubayd b. Sa'id",
           "children": [
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             }
           ]
         },
         {
-          "name": "Uthman b. Sa###id",
+          "name": "Uthman b. Sa'id",
           "children": [
             {
-              "name": "Bishr b. ###Umara",
+              "name": "Bishr b. 'Umara",
               "value": 4
             },
             {
-              "name": "Abbad b. al-###Awwam",
+              "name": "Abbad b. al-'Awwam",
               "value": 1
             },
             {
@@ -558,20 +558,20 @@
               "value": 1
             },
             {
-              "name": "Hibban b. ###Ali",
+              "name": "Hibban b. 'Ali",
               "value": 1
             }
           ]
         },
         {
-          "name": "Waki###",
+          "name": "Waki'",
           "children": [
             {
-              "name": "Isra###il",
+              "name": "Isra'il",
               "value": 1
             },
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             },
             {
@@ -581,10 +581,10 @@
           ]
         },
         {
-          "name": "Yahya b. ###Isa",
+          "name": "Yahya b. 'Isa",
           "children": [
             {
-              "name": "al-###Amash",
+              "name": "al-'Amash",
               "value": 2
             }
           ]
@@ -597,7 +597,7 @@
               "value": 1
             },
             {
-              "name": "Isra###il",
+              "name": "Isra'il",
               "value": 1
             },
             {
@@ -605,7 +605,7 @@
               "value": 1
             },
             {
-              "name": "Abu Bakr b. ###Iyash",
+              "name": "Abu Bakr b. 'Iyash",
               "value": 1
             },
             {
@@ -640,7 +640,7 @@
           "name": "al-Hammani",
           "children": [
             {
-              "name": "al-###Amash",
+              "name": "al-'Amash",
               "value": 1
             }
           ]
@@ -658,7 +658,7 @@
           "name": "المحاربي وعبدة بن سليمان وأسد بن عمرو",
           "children": [
             {
-              "name": "Muhammad b. ###Amr",
+              "name": "Muhammad b. 'Amr",
               "value": 1
             }
           ]
@@ -690,7 +690,7 @@
           "name": "Abu al-Hasan",
           "children": [
             {
-              "name": "Ayyub b. ###Umar b. Abi ###Amr",
+              "name": "Ayyub b. 'Umar b. Abi 'Amr",
               "value": 1
             }
           ]
@@ -703,7 +703,7 @@
               "value": 1
             },
             {
-              "name": "Abu Ma###shar",
+              "name": "Abu Ma'shar",
               "value": 1
             },
             {
@@ -768,7 +768,7 @@
               "value": 1
             },
             {
-              "name": "Salama b. ###Uthman",
+              "name": "Salama b. 'Uthman",
               "value": 1
             },
             {
@@ -844,7 +844,7 @@
               "value": 1
             },
             {
-              "name": "Ja###far b. Sulayman",
+              "name": "Ja'far b. Sulayman",
               "value": 1
             },
             {
@@ -852,7 +852,7 @@
               "value": 1
             },
             {
-              "name": "Abu ###Asim al-Ziyadi",
+              "name": "Abu 'Asim al-Ziyadi",
               "value": 1
             },
             {
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "name": "Ahmad b. ###Abd al-Rahman b. Wahb",
+      "name": "Ahmad b. 'Abd al-Rahman b. Wahb",
       "children": [
         {
           "name": "Abd Allah b. Wahb",
@@ -920,7 +920,7 @@
           "name": "Abu Ahmad",
           "children": [
             {
-              "name": "Mas###ar",
+              "name": "Mas'ar",
               "value": 1
             },
             {
@@ -945,7 +945,7 @@
           "name": "Abu Ahmad al-Zubayri",
           "children": [
             {
-              "name": "Isra###il",
+              "name": "Isra'il",
               "value": 1
             }
           ]
@@ -959,20 +959,20 @@
           "name": "Ahmad",
           "children": [
             {
-              "name": "Yahya b. Sa###id",
+              "name": "Yahya b. Sa'id",
               "value": 2
             },
             {
-              "name": "Ruh b. ###Abbada",
+              "name": "Ruh b. 'Abbada",
               "value": 1
             }
           ]
         },
         {
-          "name": "Ishaq b. ###Isa",
+          "name": "Ishaq b. 'Isa",
           "children": [
             {
-              "name": "Abu Ma###shar",
+              "name": "Abu Ma'shar",
               "value": 2
             }
           ]
@@ -981,7 +981,7 @@
           "name": "سمع إسحاق بن عيسى",
           "children": [
             {
-              "name": "Abu Ma###shar",
+              "name": "Abu Ma'shar",
               "value": 1
             }
           ]
@@ -1082,7 +1082,7 @@
               "value": 1
             },
             {
-              "name": "Abu ###Asim al-Dibbi",
+              "name": "Abu 'Asim al-Dibbi",
               "value": 1
             },
             {
@@ -1102,7 +1102,7 @@
               "value": 1
             },
             {
-              "name": "al-Minhal b. ###Abd al-Malik",
+              "name": "al-Minhal b. 'Abd al-Malik",
               "value": 1
             },
             {
@@ -1116,10 +1116,10 @@
           ]
         },
         {
-          "name": "Musa b. Isma###il",
+          "name": "Musa b. Isma'il",
           "children": [
             {
-              "name": "Da###ud",
+              "name": "Da'ud",
               "value": 1
             }
           ]
@@ -1136,13 +1136,13 @@
       ]
     },
     {
-      "name": "Amr b. ###Ali",
+      "name": "Amr b. 'Ali",
       "children": [
         {
           "name": "Abd al-Rahman b. Mahdi",
           "children": [
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             }
           ]
@@ -1157,7 +1157,7 @@
           ]
         },
         {
-          "name": "Abu ###Asim",
+          "name": "Abu 'Asim",
           "children": [
             {
               "name": "Sufyan",
@@ -1175,19 +1175,19 @@
           ]
         },
         {
-          "name": "Umran b. ###Uyayna",
+          "name": "Umran b. 'Uyayna",
           "children": [
             {
-              "name": "Ata### b. al-Sa###ib",
+              "name": "Ata' b. al-Sa'ib",
               "value": 1
             }
           ]
         },
         {
-          "name": "Yazid b. Zari###",
+          "name": "Yazid b. Zari'",
           "children": [
             {
-              "name": "Abu Nu###ama al-###Adawi",
+              "name": "Abu Nu'ama al-'Adawi",
               "value": 1
             }
           ]
@@ -1198,10 +1198,10 @@
       "name": "Ayyub b. Suwayd",
       "children": [
         {
-          "name": "Ishaq b. ###Isa",
+          "name": "Ishaq b. 'Isa",
           "children": [
             {
-              "name": "Abu Ma###shar",
+              "name": "Abu Ma'shar",
               "value": 6
             },
             {
@@ -1219,16 +1219,16 @@
           "name": "Yazid",
           "children": [
             {
-              "name": "Sa###id",
+              "name": "Sa'id",
               "value": 5
             }
           ]
         },
         {
-          "name": "Yazid b. Zari###",
+          "name": "Yazid b. Zari'",
           "children": [
             {
-              "name": "Sa###id",
+              "name": "Sa'id",
               "value": 3
             }
           ]
@@ -1236,26 +1236,26 @@
       ]
     },
     {
-      "name": "Bishr b. Mu###adh al-Sawaf",
+      "name": "Bishr b. Mu'adh al-Sawaf",
       "children": [
         {
           "name": "Yazid",
           "children": [
             {
-              "name": "Sa###id",
+              "name": "Sa'id",
               "value": 13
             },
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             }
           ]
         },
         {
-          "name": "Yazid b. Zari###",
+          "name": "Yazid b. Zari'",
           "children": [
             {
-              "name": "Sa###id",
+              "name": "Sa'id",
               "value": 10
             }
           ]
@@ -1273,7 +1273,7 @@
               "value": 5
             },
             {
-              "name": "Isra###il",
+              "name": "Isra'il",
               "value": 2
             }
           ]
@@ -1282,7 +1282,7 @@
           "name": "Abd al-Rahman b. Mahdi",
           "children": [
             {
-              "name": "Ibn Waki###",
+              "name": "Ibn Waki'",
               "value": 1
             },
             {
@@ -1292,7 +1292,7 @@
           ]
         },
         {
-          "name": "Abu ###Amir",
+          "name": "Abu 'Amir",
           "children": [
             {
               "name": "Sufyan",
@@ -1305,7 +1305,7 @@
           ]
         },
         {
-          "name": "Abu Da###ud",
+          "name": "Abu Da'ud",
           "children": [
             {
               "name": "Hammam",
@@ -1314,29 +1314,29 @@
           ]
         },
         {
-          "name": "Ibn ###Athama",
+          "name": "Ibn 'Athama",
           "children": [
             {
-              "name": "Sa###id b. Bashir",
+              "name": "Sa'id b. Bashir",
               "value": 1
             }
           ]
         },
         {
-          "name": "Ibn Abi ###Adi",
+          "name": "Ibn Abi 'Adi",
           "children": [
             {
               "name": "Humayd",
               "value": 1
             },
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             }
           ]
         },
         {
-          "name": "Mu###mil",
+          "name": "Mu'mil",
           "children": [
             {
               "name": "Sufyan",
@@ -1345,14 +1345,14 @@
           ]
         },
         {
-          "name": "Muhammad b. Ja###far",
+          "name": "Muhammad b. Ja'far",
           "children": [
             {
               "name": "Awf",
               "value": 1
             },
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             }
           ]
@@ -1397,7 +1397,7 @@
           ]
         },
         {
-          "name": "Yahya b. Sa###id",
+          "name": "Yahya b. Sa'id",
           "children": [
             {
               "name": "Sufyan",
@@ -1429,7 +1429,7 @@
       "name": "Ibn Humayd",
       "children": [
         {
-          "name": "Abu Da###ud Basri",
+          "name": "Abu Da'ud Basri",
           "children": [
             {
               "name": "Hammad b. Salama",
@@ -1458,7 +1458,7 @@
               "value": 1
             },
             {
-              "name": "Abu Mu###adh",
+              "name": "Abu Mu'adh",
               "value": 1
             },
             {
@@ -1497,7 +1497,7 @@
               "value": 1
             },
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             },
             {
@@ -1514,19 +1514,19 @@
               "value": 5
             },
             {
-              "name": "al-###Amash",
+              "name": "al-'Amash",
               "value": 2
             },
             {
-              "name": "Yahya b. Sa###id",
+              "name": "Yahya b. Sa'id",
               "value": 2
             },
             {
-              "name": "Ata###",
+              "name": "Ata'",
               "value": 1
             },
             {
-              "name": "Ata### b. al-Sa###ib",
+              "name": "Ata' b. al-Sa'ib",
               "value": 1
             },
             {
@@ -1580,7 +1580,7 @@
               "value": 1
             },
             {
-              "name": "Yahya b. al-###Ala###",
+              "name": "Yahya b. al-'Ala'",
               "value": 1
             },
             {
@@ -1638,10 +1638,10 @@
           ]
         },
         {
-          "name": "Ya###qub",
+          "name": "Ya'qub",
           "children": [
             {
-              "name": "Ja###far",
+              "name": "Ja'far",
               "value": 4
             },
             {
@@ -1651,14 +1651,14 @@
           ]
         },
         {
-          "name": "Ya###qub al-Qummi",
+          "name": "Ya'qub al-Qummi",
           "children": [
             {
-              "name": "Ja###far",
+              "name": "Ja'far",
               "value": 2
             },
             {
-              "name": "Ja###far b. Abi al-Mughira",
+              "name": "Ja'far b. Abi al-Mughira",
               "value": 1
             }
           ]
@@ -1671,7 +1671,7 @@
               "value": 2
             },
             {
-              "name": "Yahya b. Ya###qub",
+              "name": "Yahya b. Ya'qub",
               "value": 1
             },
             {
@@ -1679,7 +1679,7 @@
               "value": 1
             },
             {
-              "name": "al-Haytham b. ###Adi",
+              "name": "al-Haytham b. 'Adi",
               "value": 1
             },
             {
@@ -1691,11 +1691,11 @@
               "value": 1
             },
             {
-              "name": "Muhammad b. ###Abd Allah",
+              "name": "Muhammad b. 'Abd Allah",
               "value": 1
             },
             {
-              "name": "Abu Sa######id al-Yahmadi Ismail b. Ibrahim",
+              "name": "Abu Sa''id al-Yahmadi Ismail b. Ibrahim",
               "value": 1
             },
             {
@@ -1786,7 +1786,7 @@
       ]
     },
     {
-      "name": "Ibn Waki###",
+      "name": "Ibn Waki'",
       "children": [
         {
           "name": "Abi",
@@ -1796,11 +1796,11 @@
               "value": 7
             },
             {
-              "name": "al-###Amash",
+              "name": "al-'Amash",
               "value": 2
             },
             {
-              "name": "Isra###il",
+              "name": "Isra'il",
               "value": 1
             },
             {
@@ -1810,19 +1810,19 @@
           ]
         },
         {
-          "name": "Abu Da###ud",
+          "name": "Abu Da'ud",
           "children": [
             {
-              "name": "Ya###qub",
+              "name": "Ya'qub",
               "value": 1
             }
           ]
         },
         {
-          "name": "Abu Da###ud al-Hafari",
+          "name": "Abu Da'ud al-Hafari",
           "children": [
             {
-              "name": "Ya###qub",
+              "name": "Ya'qub",
               "value": 1
             }
           ]
@@ -1837,7 +1837,7 @@
           ]
         },
         {
-          "name": "Abu Mu###awiya",
+          "name": "Abu Mu'awiya",
           "children": [
             {
               "name": "Ibn Abi Khalid",
@@ -1904,7 +1904,7 @@
           ]
         },
         {
-          "name": "Isma###il b. ###Aliyya",
+          "name": "Isma'il b. 'Aliyya",
           "children": [
             {
               "name": "Ibn Abi Najih",
@@ -1922,16 +1922,16 @@
           ]
         },
         {
-          "name": "Umran b. ###Uyayna",
+          "name": "Umran b. 'Uyayna",
           "children": [
             {
-              "name": "Ata###",
+              "name": "Ata'",
               "value": 1
             }
           ]
         },
         {
-          "name": "Yahya b. Sa###id al-Qatan",
+          "name": "Yahya b. Sa'id al-Qatan",
           "children": [
             {
               "name": "Sammak b. Harb",
@@ -1958,7 +1958,7 @@
           ]
         },
         {
-          "name": "al-###Ala### b. ###Abd al-Jabbar",
+          "name": "al-'Ala' b. 'Abd al-Jabbar",
           "children": [
             {
               "name": "Hammad b. Salama",
@@ -1979,7 +1979,7 @@
           "name": "المحاربي",
           "children": [
             {
-              "name": "Da###ud",
+              "name": "Da'ud",
               "value": 1
             }
           ]
@@ -1999,10 +1999,10 @@
       "name": "Ibn al-Muthanna",
       "children": [
         {
-          "name": "Abd al-###Ala",
+          "name": "Abd al-'Ala",
           "children": [
             {
-              "name": "Da###ud",
+              "name": "Da'ud",
               "value": 1
             }
           ]
@@ -2028,7 +2028,7 @@
               "value": 1
             },
             {
-              "name": "Salam b. Abi Muti###",
+              "name": "Salam b. Abi Muti'",
               "value": 1
             }
           ]
@@ -2037,7 +2037,7 @@
           "name": "Abd al-Samad",
           "children": [
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             }
           ]
@@ -2050,7 +2050,7 @@
               "value": 2
             },
             {
-              "name": "Yahya b. Sa###id",
+              "name": "Yahya b. Sa'id",
               "value": 1
             }
           ]
@@ -2065,10 +2065,10 @@
           ]
         },
         {
-          "name": "Abu Da###ud",
+          "name": "Abu Da'ud",
           "children": [
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 2
             },
             {
@@ -2105,14 +2105,14 @@
           ]
         },
         {
-          "name": "Ibn Abi ###Adi",
+          "name": "Ibn Abi 'Adi",
           "children": [
             {
-              "name": "Da###ud",
+              "name": "Da'ud",
               "value": 3
             },
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 2
             },
             {
@@ -2131,7 +2131,7 @@
           ]
         },
         {
-          "name": "Mu###adh b. Hisham",
+          "name": "Mu'adh b. Hisham",
           "children": [
             {
               "name": "Abi",
@@ -2140,10 +2140,10 @@
           ]
         },
         {
-          "name": "Mu###adh b. Mu###adh",
+          "name": "Mu'adh b. Mu'adh",
           "children": [
             {
-              "name": "Hariz b. ###Uthman",
+              "name": "Hariz b. 'Uthman",
               "value": 1
             },
             {
@@ -2153,10 +2153,10 @@
           ]
         },
         {
-          "name": "Muhammad b. Ja###far",
+          "name": "Muhammad b. Ja'far",
           "children": [
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 6
             }
           ]
@@ -2171,7 +2171,7 @@
           ]
         },
         {
-          "name": "Uthman b. ###Umar b. Faris",
+          "name": "Uthman b. 'Umar b. Faris",
           "children": [
             {
               "name": "علي بن المبارك",
@@ -2187,7 +2187,7 @@
               "value": 1
             },
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             }
           ]
@@ -2249,7 +2249,7 @@
           "name": "يحيى بن محمد بن قيس المدني",
           "children": [
             {
-              "name": "Rabi###a b. Abi ###Abd al-Rahman",
+              "name": "Rabi'a b. Abi 'Abd al-Rahman",
               "value": 1
             }
           ]
@@ -2257,13 +2257,13 @@
       ]
     },
     {
-      "name": "Ibrahim b. Sa###id",
+      "name": "Ibrahim b. Sa'id",
       "children": [
         {
-          "name": "Musa b. Da###ud",
+          "name": "Musa b. Da'ud",
           "children": [
             {
-              "name": "Ibn Layi###a",
+              "name": "Ibn Layi'a",
               "value": 3
             }
           ]
@@ -2339,7 +2339,7 @@
       ]
     },
     {
-      "name": "Ja###far",
+      "name": "Ja'far",
       "children": [
         {
           "name": "عمرو وعلي",
@@ -2362,19 +2362,19 @@
       ]
     },
     {
-      "name": "Muhammad b. ###Abd al-A###la",
+      "name": "Muhammad b. 'Abd al-A'la",
       "children": [
         {
           "name": "Ibn Thawr",
           "children": [
             {
-              "name": "Ma###mar",
+              "name": "Ma'mar",
               "value": 2
             }
           ]
         },
         {
-          "name": "Mu###tamir",
+          "name": "Mu'tamir",
           "children": [
             {
               "name": "Abihi",
@@ -2386,7 +2386,7 @@
           "name": "Muhammad b. Thawr",
           "children": [
             {
-              "name": "Ma###mar",
+              "name": "Ma'mar",
               "value": 5
             },
             {
@@ -2396,16 +2396,16 @@
           ]
         },
         {
-          "name": "Yazid b. Zari###",
+          "name": "Yazid b. Zari'",
           "children": [
             {
-              "name": "Ma###mar",
+              "name": "Ma'mar",
               "value": 1
             }
           ]
         },
         {
-          "name": "al-Mu###tamir b. Sulayman",
+          "name": "al-Mu'tamir b. Sulayman",
           "children": [
             {
               "name": "Abihi",
@@ -2416,10 +2416,10 @@
       ]
     },
     {
-      "name": "Muhammad b. ###Amr",
+      "name": "Muhammad b. 'Amr",
       "children": [
         {
-          "name": "Abu ###Asim",
+          "name": "Abu 'Asim",
           "children": [
             {
               "name": "Isa",
@@ -2440,7 +2440,7 @@
           ]
         },
         {
-          "name": "Yahya b. ###Abd al-Rahman",
+          "name": "Yahya b. 'Abd al-Rahman",
           "children": [
             {
               "name": "عائشة توفيت خديجة خولة بنت حكيم بن أمية بن الأوقص امرأة عثمان بن مظعون وذلك",
@@ -2451,23 +2451,23 @@
       ]
     },
     {
-      "name": "Muhammad b. Isma###il",
+      "name": "Muhammad b. Isma'il",
       "children": [
         {
-          "name": "Abu Nu###aym",
+          "name": "Abu Nu'aym",
           "children": [
             {
               "name": "Yunus b. Abi Ishaq",
               "value": 1
             },
             {
-              "name": "Hibban b. ###Ali al-###Izzi",
+              "name": "Hibban b. 'Ali al-'Izzi",
               "value": 1
             }
           ]
         },
         {
-          "name": "Amr b. ###Uthman al-Himsi",
+          "name": "Amr b. 'Uthman al-Himsi",
           "children": [
             {
               "name": "Abi",
@@ -2485,7 +2485,7 @@
           ]
         },
         {
-          "name": "Qutayba b. Sa###id",
+          "name": "Qutayba b. Sa'id",
           "children": [
             {
               "name": "Nuh b. Qays",
@@ -2498,10 +2498,10 @@
           ]
         },
         {
-          "name": "Sa###id b. Abi Maryam",
+          "name": "Sa'id b. Abi Maryam",
           "children": [
             {
-              "name": "Abd al-Rahman b. ###Abd Allah b. ###Abd al-Hakam",
+              "name": "Abd al-Rahman b. 'Abd Allah b. 'Abd al-Hakam",
               "value": 1
             }
           ]
@@ -2518,7 +2518,7 @@
       ]
     },
     {
-      "name": "Muhammad b. Sa###d",
+      "name": "Muhammad b. Sa'd",
       "children": [
         {
           "name": "Abi",
@@ -2532,10 +2532,10 @@
       ]
     },
     {
-      "name": "Muhammad b. Sahl b. ###Askar",
+      "name": "Muhammad b. Sahl b. 'Askar",
       "children": [
         {
-          "name": "Isma###il b. ###Abd al-Karim",
+          "name": "Isma'il b. 'Abd al-Karim",
           "children": [
             {
               "name": "Abd al-Samad",
@@ -2592,7 +2592,7 @@
       ]
     },
     {
-      "name": "Sa###id b. Abi Maryam",
+      "name": "Sa'id b. Abi Maryam",
       "children": [
         {
           "name": "Amr",
@@ -2634,7 +2634,7 @@
           "name": "Yazid",
           "children": [
             {
-              "name": "Isma###il",
+              "name": "Isma'il",
               "value": 1
             }
           ]
@@ -2648,7 +2648,7 @@
           "name": "Ammi",
           "children": [
             {
-              "name": "Sayf b. ###Umar",
+              "name": "Sayf b. 'Umar",
               "value": 23
             },
             {
@@ -2661,7 +2661,7 @@
           "name": "عمي يعقوب",
           "children": [
             {
-              "name": "Sayf b. ###Umar",
+              "name": "Sayf b. 'Umar",
               "value": 1
             }
           ]
@@ -2669,13 +2669,13 @@
       ]
     },
     {
-      "name": "Ubayd Allah b. Sa###d al-Zuhri",
+      "name": "Ubayd Allah b. Sa'd al-Zuhri",
       "children": [
         {
           "name": "Ammi",
           "children": [
             {
-              "name": "Sayf b. ###Umar",
+              "name": "Sayf b. 'Umar",
               "value": 9
             }
           ]
@@ -2684,7 +2684,7 @@
           "name": "عمي يعقوب بن إبراهيم",
           "children": [
             {
-              "name": "Sayf b. ###Umar",
+              "name": "Sayf b. 'Umar",
               "value": 1
             }
           ]
@@ -2695,7 +2695,7 @@
       "name": "Umar",
       "children": [
         {
-          "name": "Abu ###Asim al-Nubayl",
+          "name": "Abu 'Asim al-Nubayl",
           "children": [
             {
               "name": "عمرو بن الزبير وخلاد بن يزيد الباهلي والوليد بن هشام",
@@ -2704,7 +2704,7 @@
           ]
         },
         {
-          "name": "Abu ###Ubayda",
+          "name": "Abu 'Ubayda",
           "children": [
             {
               "name": "زياد يومئذ على المنبر",
@@ -2733,7 +2733,7 @@
               "value": 3
             },
             {
-              "name": "Bushayr b. ###Asim",
+              "name": "Bushayr b. 'Asim",
               "value": 2
             },
             {
@@ -2801,17 +2801,17 @@
               "value": 1
             },
             {
-              "name": "Abu ###Abd Allah al-Qurashi",
+              "name": "Abu 'Abd Allah al-Qurashi",
               "value": 1
             },
             {
-              "name": "Abd al-Malik b. ###Abd Allah al-Thaqafi",
+              "name": "Abd al-Malik b. 'Abd Allah al-Thaqafi",
               "value": 1
             }
           ]
         },
         {
-          "name": "Abu al-Hasan ###Ali",
+          "name": "Abu al-Hasan 'Ali",
           "children": [
             {
               "name": "Abu Bakr al-Hudhali",
@@ -2823,7 +2823,7 @@
           "name": "Abu al-Qasim",
           "children": [
             {
-              "name": "Salama b. ###Uthman",
+              "name": "Salama b. 'Uthman",
               "value": 1
             }
           ]
@@ -2865,7 +2865,7 @@
               "value": 1
             },
             {
-              "name": "Abu ###Abd Allah al-Barjami",
+              "name": "Abu 'Abd Allah al-Barjami",
               "value": 1
             },
             {
@@ -2877,7 +2877,7 @@
               "value": 1
             },
             {
-              "name": "Abu Isma###il al-Hamadani",
+              "name": "Abu Isma'il al-Hamadani",
               "value": 1
             },
             {
@@ -2977,7 +2977,7 @@
               "value": 1
             },
             {
-              "name": "Abu Ma###shar",
+              "name": "Abu Ma'shar",
               "value": 1
             },
             {
@@ -3001,7 +3001,7 @@
               "value": 1
             },
             {
-              "name": "Ibn Da###b",
+              "name": "Ibn Da'b",
               "value": 1
             },
             {
@@ -3017,11 +3017,11 @@
               "value": 1
             },
             {
-              "name": "Ja###far al-Sadafi",
+              "name": "Ja'far al-Sadafi",
               "value": 1
             },
             {
-              "name": "Salama b. ###Uthman",
+              "name": "Salama b. 'Uthman",
               "value": 1
             },
             {
@@ -3078,14 +3078,14 @@
           ]
         },
         {
-          "name": "Musa b. Isma###il",
+          "name": "Musa b. Isma'il",
           "children": [
             {
               "name": "Nuh b. Qays",
               "value": 1
             },
             {
-              "name": "Sulayman b. Muslim al-###Ajli",
+              "name": "Sulayman b. Muslim al-'Ajli",
               "value": 1
             }
           ]
@@ -3129,7 +3129,7 @@
           "name": "كتابه الذي سماه كتاب أخبار أهل البصرة",
           "children": [
             {
-              "name": "Abu al-Hasan al-Mada###ini",
+              "name": "Abu al-Hasan al-Mada'ini",
               "value": 1
             }
           ]
@@ -3147,11 +3147,11 @@
               "value": 4
             },
             {
-              "name": "Bashir b. ###Asim",
+              "name": "Bashir b. 'Asim",
               "value": 2
             },
             {
-              "name": "Abu ###Amr",
+              "name": "Abu 'Amr",
               "value": 1
             },
             {
@@ -3159,11 +3159,11 @@
               "value": 1
             },
             {
-              "name": "Bushayr b. ###Asim",
+              "name": "Bushayr b. 'Asim",
               "value": 1
             },
             {
-              "name": "Ja###far b. Sulayman",
+              "name": "Ja'far b. Sulayman",
               "value": 1
             },
             {
@@ -3185,7 +3185,7 @@
           ]
         },
         {
-          "name": "Abu al-Hasan al-Mada###ini",
+          "name": "Abu al-Hasan al-Mada'ini",
           "children": [
             {
               "name": "Maslama b. Muharib",
@@ -3281,7 +3281,7 @@
               "value": 1
             },
             {
-              "name": "Ibn Ja###daba",
+              "name": "Ibn Ja'daba",
               "value": 1
             },
             {
@@ -3297,7 +3297,7 @@
               "value": 1
             },
             {
-              "name": "Waki###",
+              "name": "Waki'",
               "value": 1
             },
             {
@@ -3325,7 +3325,7 @@
           ]
         },
         {
-          "name": "Musa b. Isma###il",
+          "name": "Musa b. Isma'il",
           "children": [
             {
               "name": "Hammad b. Salama",
@@ -3372,7 +3372,7 @@
       ]
     },
     {
-      "name": "Ya###qub",
+      "name": "Ya'qub",
       "children": [
         {
           "name": "Hashim",
@@ -3388,10 +3388,10 @@
           ]
         },
         {
-          "name": "Ibn ###Aliyya",
+          "name": "Ibn 'Aliyya",
           "children": [
             {
-              "name": "Da###ud",
+              "name": "Da'ud",
               "value": 2
             },
             {
@@ -3405,7 +3405,7 @@
           ]
         },
         {
-          "name": "Isma###il",
+          "name": "Isma'il",
           "children": [
             {
               "name": "Ayyub",
@@ -3414,7 +3414,7 @@
           ]
         },
         {
-          "name": "Yahya b. Sa###id",
+          "name": "Yahya b. Sa'id",
           "children": [
             {
               "name": "عبد الله بن مبارك",
@@ -3434,7 +3434,7 @@
       ]
     },
     {
-      "name": "Ya###qub b. Ibrahim",
+      "name": "Ya'qub b. Ibrahim",
       "children": [
         {
           "name": "Hashim",
@@ -3446,10 +3446,10 @@
           ]
         },
         {
-          "name": "Ibn ###Aliyya",
+          "name": "Ibn 'Aliyya",
           "children": [
             {
-              "name": "Abu Rija###",
+              "name": "Abu Rija'",
               "value": 1
             },
             {
@@ -3461,7 +3461,7 @@
               "value": 1
             },
             {
-              "name": "Sa###id b. Abi Sadaqa",
+              "name": "Sa'id b. Abi Sadaqa",
               "value": 1
             },
             {
@@ -3480,7 +3480,7 @@
           ]
         },
         {
-          "name": "Isma###il",
+          "name": "Isma'il",
           "children": [
             {
               "name": "Ayyub",
@@ -3489,7 +3489,7 @@
           ]
         },
         {
-          "name": "Isma###il b. Ibrahim",
+          "name": "Isma'il b. Ibrahim",
           "children": [
             {
               "name": "Yunus",
@@ -3498,7 +3498,7 @@
           ]
         },
         {
-          "name": "Mu###tamir b. Sulayman al-Taymi",
+          "name": "Mu'tamir b. Sulayman al-Taymi",
           "children": [
             {
               "name": "Abi",
@@ -3507,7 +3507,7 @@
           ]
         },
         {
-          "name": "Yahya b. Sa###id",
+          "name": "Yahya b. Sa'id",
           "children": [
             {
               "name": "Abd Allah b. Mubarak",
@@ -3560,7 +3560,7 @@
       ]
     },
     {
-      "name": "Yunus b. ###Abd al-A###la",
+      "name": "Yunus b. 'Abd al-A'la",
       "children": [
         {
           "name": "Ibn Wahb",
@@ -3570,7 +3570,7 @@
               "value": 3
             },
             {
-              "name": "Ibn Layi###a",
+              "name": "Ibn Layi'a",
               "value": 2
             },
             {
@@ -3586,7 +3586,7 @@
               "value": 1
             },
             {
-              "name": "Sa###id b. ###Abd al-Rahman al-Jamhi",
+              "name": "Sa'id b. 'Abd al-Rahman al-Jamhi",
               "value": 1
             }
           ]
@@ -3604,16 +3604,16 @@
           "name": "Wahb",
           "children": [
             {
-              "name": "Ibn Abi Dhi###b",
+              "name": "Ibn Abi Dhi'b",
               "value": 1
             }
           ]
         },
         {
-          "name": "Yahya b. ###Abd Allah b. Bukayr",
+          "name": "Yahya b. 'Abd Allah b. Bukayr",
           "children": [
             {
-              "name": "al-Layth b. Sa###d",
+              "name": "al-Layth b. Sa'd",
               "value": 1
             }
           ]
@@ -3621,17 +3621,17 @@
       ]
     },
     {
-      "name": "al-###Abbas b. al-Walid",
+      "name": "al-'Abbas b. al-Walid",
       "children": [
         {
           "name": "Abi",
           "children": [
             {
-              "name": "al-Awza###i",
+              "name": "al-Awza'i",
               "value": 3
             },
             {
-              "name": "Isma###il b. ###Iyash",
+              "name": "Isma'il b. 'Iyash",
               "value": 1
             }
           ]
@@ -3642,7 +3642,7 @@
       "name": "al-Harith",
       "children": [
         {
-          "name": "Abd al-###Aziz",
+          "name": "Abd al-'Aziz",
           "children": [
             {
               "name": "Sufyan",
@@ -3653,11 +3653,11 @@
               "value": 1
             },
             {
-              "name": "Ja###far b. Sulayman",
+              "name": "Ja'far b. Sulayman",
               "value": 1
             },
             {
-              "name": "Ja###far b. Sulayman al-Diba###i",
+              "name": "Ja'far b. Sulayman al-Diba'i",
               "value": 1
             }
           ]
@@ -3676,10 +3676,10 @@
           ]
         },
         {
-          "name": "Ibn Sa###d",
+          "name": "Ibn Sa'd",
           "children": [
             {
-              "name": "Muhammad b. ###Umar",
+              "name": "Muhammad b. 'Umar",
               "value": 69
             },
             {
@@ -3739,16 +3739,16 @@
               "value": 1
             },
             {
-              "name": "Abu Bakr b. ###Abd Allah b. Abi Uways",
+              "name": "Abu Bakr b. 'Abd Allah b. Abi Uways",
               "value": 1
             }
           ]
         },
         {
-          "name": "Muhammad b. Sa###d",
+          "name": "Muhammad b. Sa'd",
           "children": [
             {
-              "name": "Muhammad b. ###Umar",
+              "name": "Muhammad b. 'Umar",
               "value": 19
             },
             {
@@ -3760,7 +3760,7 @@
               "value": 3
             },
             {
-              "name": "Abu ###Ubayda",
+              "name": "Abu 'Ubayda",
               "value": 1
             },
             {
@@ -3789,7 +3789,7 @@
           "name": "al-Hasan",
           "children": [
             {
-              "name": "Waraqa###",
+              "name": "Waraqa'",
               "value": 3
             },
             {
@@ -3833,20 +3833,20 @@
           "name": "Ali b. Muhammad",
           "children": [
             {
-              "name": "Abu ###Amr",
+              "name": "Abu 'Amr",
               "value": 1
             }
           ]
         },
         {
-          "name": "Ibn Sa###d",
+          "name": "Ibn Sa'd",
           "children": [
             {
               "name": "Hisham b. Muhammad al-Kalbi",
               "value": 2
             },
             {
-              "name": "Muhammad b. ###Umar",
+              "name": "Muhammad b. 'Umar",
               "value": 2
             },
             {
@@ -3860,10 +3860,10 @@
           ]
         },
         {
-          "name": "Muhammad b. Sa###d",
+          "name": "Muhammad b. Sa'd",
           "children": [
             {
-              "name": "Muhammad b. ###Umar",
+              "name": "Muhammad b. 'Umar",
               "value": 3
             },
             {
@@ -3882,7 +3882,7 @@
       "name": "al-Hasan b. Muhammad",
       "children": [
         {
-          "name": "Da###ud b. Mihran",
+          "name": "Da'ud b. Mihran",
           "children": [
             {
               "name": "Abd al-Wahid b. Ziyad",
@@ -3900,10 +3900,10 @@
           ]
         },
         {
-          "name": "Muhammad b. Abi ###Adi",
+          "name": "Muhammad b. Abi 'Adi",
           "children": [
             {
-              "name": "Sha###ba",
+              "name": "Sha'ba",
               "value": 1
             }
           ]
@@ -3912,13 +3912,13 @@
           "name": "Shibaba",
           "children": [
             {
-              "name": "Waraqa###",
+              "name": "Waraqa'",
               "value": 2
             }
           ]
         },
         {
-          "name": "Yahya b. ###Abad",
+          "name": "Yahya b. 'Abad",
           "children": [
             {
               "name": "Hammad b. Salama",
@@ -3935,7 +3935,7 @@
           "name": "Abd al-Razzaq",
           "children": [
             {
-              "name": "Ma###mar",
+              "name": "Ma'mar",
               "value": 7
             },
             {
@@ -3957,10 +3957,10 @@
           ]
         },
         {
-          "name": "Abu ###Amir",
+          "name": "Abu 'Amir",
           "children": [
             {
-              "name": "Ikrima b. ###Ammar al-Yamami",
+              "name": "Ikrima b. 'Ammar al-Yamami",
               "value": 1
             }
           ]
@@ -3992,7 +3992,7 @@
           "name": "Abu Salih",
           "children": [
             {
-              "name": "Abu Ma###shar",
+              "name": "Abu Ma'shar",
               "value": 2
             }
           ]
@@ -4010,7 +4010,7 @@
           "name": "Ishaq",
           "children": [
             {
-              "name": "Isma###il b. ###Abd al-Karim",
+              "name": "Isma'il b. 'Abd al-Karim",
               "value": 2
             },
             {
@@ -4027,7 +4027,7 @@
           "name": "Ishaq b. al-Hajjaj",
           "children": [
             {
-              "name": "Abd Allah b. Abi Ja###far",
+              "name": "Abd Allah b. Abi Ja'far",
               "value": 1
             }
           ]
@@ -4054,7 +4054,7 @@
           "name": "al-Hajjaj",
           "children": [
             {
-              "name": "Abu ###Awana",
+              "name": "Abu 'Awana",
               "value": 2
             },
             {
@@ -4067,7 +4067,7 @@
           "name": "al-Hammani",
           "children": [
             {
-              "name": "Ubayd Allah b. al-Wazi###",
+              "name": "Ubayd Allah b. al-Wazi'",
               "value": 1
             }
           ]
@@ -4093,7 +4093,7 @@
               "value": 1
             },
             {
-              "name": "Mu###tamir b. Sulayman al-Taymi",
+              "name": "Mu'tamir b. Sulayman al-Taymi",
               "value": 1
             },
             {
@@ -4107,7 +4107,7 @@
           ]
         },
         {
-          "name": "al-Husayn b. Da###ud",
+          "name": "al-Husayn b. Da'ud",
           "children": [
             {
               "name": "Hajjaj",
@@ -4130,7 +4130,7 @@
           ]
         },
         {
-          "name": "al-Husayn b. Da###ud",
+          "name": "al-Husayn b. Da'ud",
           "children": [
             {
               "name": "Hajjaj",
@@ -4148,10 +4148,10 @@
       "name": "al-Sari",
       "children": [
         {
-          "name": "Shu###ayb b. Ibrahim",
+          "name": "Shu'ayb b. Ibrahim",
           "children": [
             {
-              "name": "Sayf b. ###Umar",
+              "name": "Sayf b. 'Umar",
               "value": 15
             }
           ]
