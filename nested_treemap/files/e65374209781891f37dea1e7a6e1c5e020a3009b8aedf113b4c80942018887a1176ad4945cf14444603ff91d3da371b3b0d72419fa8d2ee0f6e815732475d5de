@@ -1,6 +1,7 @@
 
-      "name": "Ibn Humayd",
-      "children": [
+{
+    "name": "Ibn Humayd",
+    "children": [
         {
           "name": "Jarir",
           "children": [
