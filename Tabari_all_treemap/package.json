@@ -1,0 +1,14 @@
+{
+  "name": "de0c7aca6b5073da",
+  "main": "de0c7aca6b5073da@402.js",
+  "version": "402.0.0",
+  "homepage": "https://observablehq.com/d/de0c7aca6b5073da",
+  "author": {
+    "name": "Ali Rostami",
+    "url": "https://observablehq.com/@rostam"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
