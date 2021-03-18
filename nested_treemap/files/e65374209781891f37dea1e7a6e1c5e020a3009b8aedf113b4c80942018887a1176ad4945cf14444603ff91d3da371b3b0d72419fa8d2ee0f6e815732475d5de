@@ -23,7 +23,21 @@
           "children": [
             {
               "name": "Sulayman",
-              "value": 12
+              "value": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abi",
+      "children": [
+        {
+          "name": "Abihi",
+          "children": [
+            {
+              "name": "Ibn 'Abbas",
+              "value": 3
             }
           ]
         }
@@ -58,8 +72,8 @@
           "name": "Uthman b. Sa'id",
           "children": [
             {
-              "name": "Bishr b. 'Umara",
-              "value": 4
+              "name": "Bishr b. 'Ummara",
+              "value": 3
             }
           ]
         }
@@ -124,7 +138,16 @@
           "children": [
             {
               "name": "Abu Ma'shar",
-              "value": 6
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "ذكره",
+          "children": [
+            {
+              "name": "Ishaq b. 'Isa",
+              "value": 4
             }
           ]
         }
@@ -138,7 +161,7 @@
           "children": [
             {
               "name": "Sa'id",
-              "value": 5
+              "value": 3
             }
           ]
         },
@@ -200,42 +223,6 @@
       ]
     },
     {
-      "name": "Ibn Humayd",
-      "children": [
-        {
-          "name": "Jarir",
-          "children": [
-            {
-              "name": "Mughira",
-              "value": 5
-            }
-          ]
-        },
-        {
-          "name": "Salama b. al-Fadl",
-          "children": [
-            {
-              "name": "Ibn Ishaq",
-              "value": 395
-            },
-            {
-              "name": "Muhammad",
-              "value": 4
-            }
-          ]
-        },
-        {
-          "name": "Ya'qub",
-          "children": [
-            {
-              "name": "Ja'far",
-              "value": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Ibn Waki'",
       "children": [
         {
@@ -271,19 +258,10 @@
       "name": "Ibn al-Muthanna",
       "children": [
         {
-          "name": "Hajjaj b. al-Minhal",
+          "name": "Abd al-Wahhab",
           "children": [
             {
-              "name": "Hammad",
-              "value": 3
-            }
-          ]
-        },
-        {
-          "name": "Ibn Abi 'Adi",
-          "children": [
-            {
-              "name": "Da'ud",
+              "name": "Yahya b. Sa'id",
               "value": 3
             }
           ]
@@ -293,34 +271,6 @@
           "children": [
             {
               "name": "Sha'ba",
-              "value": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Ibrahim b. Sa'id",
-      "children": [
-        {
-          "name": "Musa b. Da'ud",
-          "children": [
-            {
-              "name": "Ibn Layi'a",
-              "value": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Ja'far",
-      "children": [
-        {
-          "name": "عمرو وعلي",
-          "children": [
-            {
-              "name": "Husayn",
               "value": 5
             }
           ]
@@ -349,7 +299,43 @@
           "children": [
             {
               "name": "Isa",
-              "value": 7
+              "value": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. Humayd al-Razi",
+      "children": [
+        {
+          "name": "Jarir",
+          "children": [
+            {
+              "name": "Mughira",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Salama b. al-Fadl",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 378
+            },
+            {
+              "name": "Muhammad",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Ya'qub",
+          "children": [
+            {
+              "name": "Ja'far",
+              "value": 4
             }
           ]
         }
@@ -391,7 +377,7 @@
           "children": [
             {
               "name": "Asbat",
-              "value": 6
+              "value": 4
             }
           ]
         }
@@ -447,7 +433,7 @@
           "children": [
             {
               "name": "Sayf b. 'Umar",
-              "value": 23
+              "value": 18
             }
           ]
         }
@@ -474,12 +460,12 @@
           "name": "Abu al-Hasan",
           "children": [
             {
-              "name": "Abu Mikhnaf",
-              "value": 4
-            },
-            {
               "name": "Abu Layla",
               "value": 3
+            },
+            {
+              "name": "Abu Mikhnaf",
+              "value": 4
             }
           ]
         },
@@ -488,7 +474,7 @@
           "children": [
             {
               "name": "Maslama b. Muharib",
-              "value": 5
+              "value": 4
             }
           ]
         },
@@ -521,6 +507,10 @@
             {
               "name": "Abu Mikhnaf",
               "value": 4
+            },
+            {
+              "name": "Bashir b. 'Asim",
+              "value": 3
             }
           ]
         }
@@ -555,20 +545,6 @@
       ]
     },
     {
-      "name": "al-'Abbas b. al-Walid",
-      "children": [
-        {
-          "name": "Abi",
-          "children": [
-            {
-              "name": "al-Awza'i",
-              "value": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "al-Harith",
       "children": [
         {
@@ -584,16 +560,16 @@
           "name": "Ibn Sa'd",
           "children": [
             {
-              "name": "Muhammad b. 'Umar",
-              "value": 69
-            },
-            {
               "name": "Hisham",
-              "value": 12
+              "value": 11
             },
             {
               "name": "Hisham b. Muhammad al-Kalbi",
-              "value": 7
+              "value": 5
+            },
+            {
+              "name": "Muhammad b. 'Umar",
+              "value": 67
             },
             {
               "name": "al-Waqidi",
@@ -605,12 +581,12 @@
           "name": "Muhammad b. Sa'd",
           "children": [
             {
-              "name": "Muhammad b. 'Umar",
-              "value": 19
-            },
-            {
               "name": "Hisham b. Muhammad al-Kalbi",
               "value": 4
+            },
+            {
+              "name": "Muhammad b. 'Umar",
+              "value": 19
             },
             {
               "name": "هشام بن",
@@ -651,7 +627,7 @@
           "children": [
             {
               "name": "Ma'mar",
-              "value": 7
+              "value": 8
             }
           ]
         }
@@ -664,7 +640,7 @@
           "name": "Abu Hudhayfa",
           "children": [
             {
-              "name": "شبل",
+              "name": "Shibl",
               "value": 4
             }
           ]
@@ -679,7 +655,7 @@
           "children": [
             {
               "name": "Hajjaj",
-              "value": 19
+              "value": 17
             }
           ]
         }
@@ -716,7 +692,7 @@
           "children": [
             {
               "name": "Sayf b. 'Umar",
-              "value": 15
+              "value": 12
             }
           ]
         }
