@@ -1,0 +1,1259 @@
+{
+  "name": "Tahdhib",
+  "children": [
+    {
+      "name": "Abd al-Hamid b. Bayan",
+      "children": [
+        {
+          "name": "Muhammad b. Yazid al-Wasiti",
+          "children": [
+            {
+              "name": "Isma'il b. Abi Khalid",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abu Kurayb",
+      "children": [
+        {
+          "name": "Abda",
+          "children": [
+            {
+              "name": "Muhammad b. 'Amr",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Abu Bakr b. 'Iyash",
+          "children": [
+            {
+              "name": "Abu Ishaq",
+              "value": 4
+            },
+            {
+              "name": "al-'Amash",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Abu Usama",
+          "children": [
+            {
+              "name": "Za'ida",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Asbat",
+          "children": [
+            {
+              "name": "Mutrif",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Atham",
+          "children": [
+            {
+              "name": "al-'Amash",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Atham b. 'Ali",
+          "children": [
+            {
+              "name": "al-'Amash",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Husayn",
+          "children": [
+            {
+              "name": "Za'ida",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Ibn Idris",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 4
+            },
+            {
+              "name": "Yazid b. Abi Ziyad",
+              "value": 4
+            },
+            {
+              "name": "al-Shaybani",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Ibn Yaman",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Khalid b. Mukhallad",
+          "children": [
+            {
+              "name": "Muhammad b. Ja'far",
+              "value": 7
+            },
+            {
+              "name": "Sulayman b. Bilal",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Bishr",
+          "children": [
+            {
+              "name": "Mas'ar",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Ubayd Allah",
+          "children": [
+            {
+              "name": "Isra'il",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Waki'",
+          "children": [
+            {
+              "name": "Ibn Waki'",
+              "value": 22
+            },
+            {
+              "name": "Sha'ba",
+              "value": 3
+            },
+            {
+              "name": "Sufyan",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Adam",
+          "children": [
+            {
+              "name": "Ibn Uyayna",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Yunus b. Bukayr",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "al-Ashja'i",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abu al-Sa'ib",
+      "children": [
+        {
+          "name": "Abu Mu'awiya",
+          "children": [
+            {
+              "name": "al-'Amash",
+              "value": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ahmad b. 'Abd al-Rahman b. Wahb",
+      "children": [
+        {
+          "name": "Abd Allah b. Wahb",
+          "children": [
+            {
+              "name": "Amr b. al-Harith",
+              "value": 10
+            },
+            {
+              "name": "Yunus",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ali b. Sahl al-Ramali",
+      "children": [
+        {
+          "name": "Mu'mil",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Mu'mil b. Isma'il",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Zayd b. Abi al-Zurqa'i",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "al-Hasan b. Bilal",
+          "children": [
+            {
+              "name": "Hammad",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Humayd b. Mas'ada",
+      "children": [
+        {
+          "name": "Bishr b. al-Mufaddil",
+          "children": [
+            {
+              "name": "Da'ud",
+              "value": 3
+            },
+            {
+              "name": "Ibn 'Awn",
+              "value": 3
+            },
+            {
+              "name": "Sha'ba",
+              "value": 5
+            },
+            {
+              "name": "al-Jariri",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Yazid b. Zari'",
+          "children": [
+            {
+              "name": "Sa'id",
+              "value": 3
+            },
+            {
+              "name": "Sha'ba",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunad b. al-Sari",
+      "children": [
+        {
+          "name": "Abu al-Ahwas",
+          "children": [
+            {
+              "name": "Hisiin",
+              "value": 4
+            },
+            {
+              "name": "Sammak",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn 'Abd al-Rahim al-Baraqi",
+      "children": [
+        {
+          "name": "Amir b. Abi Salama",
+          "children": [
+            {
+              "name": "Sa'id",
+              "value": 3
+            },
+            {
+              "name": "al-Awza'i",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Ibn Abi Maryam",
+          "children": [
+            {
+              "name": "Muhammad b. Ja'far",
+              "value": 5
+            },
+            {
+              "name": "Nafi' b. Yazid",
+              "value": 5
+            },
+            {
+              "name": "Yahya b. Ayyub",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn Bashshar",
+      "children": [
+        {
+          "name": "Abd al-'Ala",
+          "children": [
+            {
+              "name": "Sa'id",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Rahman",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 91
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Rahman b. Mahdi",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Wahhab",
+          "children": [
+            {
+              "name": "Ayyub",
+              "value": 17
+            },
+            {
+              "name": "Yahya b. Sa'id",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Abu 'Amir",
+          "children": [
+            {
+              "name": "Qurra",
+              "value": 3
+            },
+            {
+              "name": "Sufyan",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Abu Ahmad",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Abu Ahmad al-Zubayri",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Ibn Abi 'Adi",
+          "children": [
+            {
+              "name": "Awf",
+              "value": 5
+            },
+            {
+              "name": "Hisham",
+              "value": 3
+            },
+            {
+              "name": "Humayd",
+              "value": 7
+            },
+            {
+              "name": "Sa'id",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "Mu'adh b. Hisham",
+          "children": [
+            {
+              "name": "Abi",
+              "value": 27
+            }
+          ]
+        },
+        {
+          "name": "Mu'mil",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Ja'far",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Yahya",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Sa'id",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn Waki'",
+      "children": [
+        {
+          "name": "Abd al-'Ala",
+          "children": [
+            {
+              "name": "Ma'mar",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "Sufyan",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn al-Muthanna",
+      "children": [
+        {
+          "name": "Abd al-'Ala",
+          "children": [
+            {
+              "name": "Da'ud",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Rahman",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Rahman b. Mahdi",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Samad",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Samad b. 'Abd al-Warith",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Abd al-Wahhab",
+          "children": [
+            {
+              "name": "Da'ud",
+              "value": 8
+            },
+            {
+              "name": "Ubayd Allah",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Abu 'Amir",
+          "children": [
+            {
+              "name": "Hisham",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Abu Da'ud",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 17
+            }
+          ]
+        },
+        {
+          "name": "Harami b. 'Ammara",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Hisham b. 'Abd al-Malik",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Ibn Abi 'Adi",
+          "children": [
+            {
+              "name": "Da'ud",
+              "value": 6
+            },
+            {
+              "name": "Hisham",
+              "value": 3
+            },
+            {
+              "name": "Sa'id",
+              "value": 6
+            },
+            {
+              "name": "Sha'ba",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "name": "Mu'adh b. Hisham",
+          "children": [
+            {
+              "name": "Abi",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "Muhammad",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Muhammad b. Ja'far",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 112
+            }
+          ]
+        },
+        {
+          "name": "Wahb b. Jarir",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Sa'id",
+          "children": [
+            {
+              "name": "Ubayd Allah",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Khallad b. Aslam",
+      "children": [
+        {
+          "name": "al-Nadr b. Shumayl",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b Mu'ammir al-Bahrani",
+      "children": [
+        {
+          "name": "Abu 'Amir",
+          "children": [
+            {
+              "name": "Muhammad b. Abi Humayd",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. 'Abd Allah b. 'Abd al-Hakam",
+      "children": [
+        {
+          "name": "Abu Zur'a Wahb Allah",
+          "children": [
+            {
+              "name": "Hayyawa b. Shurayh",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. 'Abd Allah b. 'Abd al-Hakam al-Misri",
+      "children": [
+        {
+          "name": "Abu Zur'a Wahb Allah",
+          "children": [
+            {
+              "name": "Hayyawa b. Shurayh",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "أبي وشعيب بن الليث",
+          "children": [
+            {
+              "name": "al-Layth",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. 'Abd Allah b. Bazi'",
+      "children": [
+        {
+          "name": "Bishr b. al-Mufaddil",
+          "children": [
+            {
+              "name": "Abd al-Rahman b. Ishaq",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. 'Abd al-A'la al-Sana'ni",
+      "children": [
+        {
+          "name": "al-Mu'tamir b. Sulayman",
+          "children": [
+            {
+              "name": "Abihi",
+              "value": 4
+            },
+            {
+              "name": "Ubayd Allah",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. 'Abd al-Malik b. Abi al-Shawarib",
+      "children": [
+        {
+          "name": "Abd al-Wahid b. Ziyad",
+          "children": [
+            {
+              "name": "Sulayman al-Shaybani",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Yazid b. Zari'",
+          "children": [
+            {
+              "name": "Da'ud",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. Humayd al-Razi",
+      "children": [
+        {
+          "name": "Hakkam b. Salm",
+          "children": [
+            {
+              "name": "Anbasa",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Harun",
+          "children": [
+            {
+              "name": "Amr",
+              "value": 10
+            },
+            {
+              "name": "Anbasa",
+              "value": 15
+            }
+          ]
+        },
+        {
+          "name": "Harun b. al-Mughira",
+          "children": [
+            {
+              "name": "Amr",
+              "value": 3
+            },
+            {
+              "name": "Anbasa",
+              "value": 11
+            },
+            {
+              "name": "Isma'il",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Ibn al-Mubarak",
+          "children": [
+            {
+              "name": "Ma'mar",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Jarir",
+          "children": [
+            {
+              "name": "Asim",
+              "value": 7
+            },
+            {
+              "name": "Ata'",
+              "value": 4
+            },
+            {
+              "name": "Mansur",
+              "value": 33
+            },
+            {
+              "name": "Mughira",
+              "value": 31
+            },
+            {
+              "name": "al-'Amash",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Salama b. al-Fadl",
+          "children": [
+            {
+              "name": "Ibn Ishaq",
+              "value": 24
+            },
+            {
+              "name": "Muhammad",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Yahya",
+          "children": [
+            {
+              "name": "a-Husayn",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Yahya b. Wadih",
+          "children": [
+            {
+              "name": "Isa b. 'Ubayd",
+              "value": 3
+            },
+            {
+              "name": "Ubayd Allah al-'Ataki",
+              "value": 3
+            },
+            {
+              "name": "a-Husayn",
+              "value": 6
+            },
+            {
+              "name": "al-Husayn b. Waqid",
+              "value": 4
+            },
+            {
+              "name": "al-Mas'udi",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "al-Hakam b. Bushayr",
+          "children": [
+            {
+              "name": "Umar b. Dhurr",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. Umara al-Asadi",
+      "children": [
+        {
+          "name": "Ubayd Allah b. Musa",
+          "children": [
+            {
+              "name": "Isra'il",
+              "value": 3
+            },
+            {
+              "name": "Nu'aym",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. al-'Ala'",
+      "children": [
+        {
+          "name": "Waki'",
+          "children": [
+            {
+              "name": "Ibn Waki'",
+              "value": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muhammad b. al-Muthanna",
+      "children": [
+        {
+          "name": "Muhammad b. Ja'far",
+          "children": [
+            {
+              "name": "Sha'ba",
+              "value": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Salm b. Junada",
+      "children": [
+        {
+          "name": "Abu Mu'awiya",
+          "children": [
+            {
+              "name": "al-'Amash",
+              "value": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Salm b. Junda",
+      "children": [
+        {
+          "name": "Abu Mu'awiya",
+          "children": [
+            {
+              "name": "al-'Amash",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tamim b. al-Muntasir",
+      "children": [
+        {
+          "name": "Abd Allah b. Numayr",
+          "children": [
+            {
+              "name": "Ubayd Allah",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Ishaq",
+          "children": [
+            {
+              "name": "Sharik",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "Ishaq a-Azraq",
+          "children": [
+            {
+              "name": "Sharik",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Yazid",
+          "children": [
+            {
+              "name": "Isma'il",
+              "value": 3
+            },
+            {
+              "name": "Muhammad",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ya'qub",
+      "children": [
+        {
+          "name": "Ibn 'Aliyya",
+          "children": [
+            {
+              "name": "Ayyub",
+              "value": 4
+            },
+            {
+              "name": "Ibn 'Awn",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ya'qub b. Ibrahim",
+      "children": [
+        {
+          "name": "Ibn 'Aliyya",
+          "children": [
+            {
+              "name": "Ayyub",
+              "value": 13
+            },
+            {
+              "name": "Hisham al-Dustawa'i",
+              "value": 3
+            },
+            {
+              "name": "Ibn 'Awn",
+              "value": 6
+            },
+            {
+              "name": "Ibn Ishaq",
+              "value": 3
+            },
+            {
+              "name": "Yunus",
+              "value": 10
+            },
+            {
+              "name": "al-Jariri",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yunus",
+      "children": [
+        {
+          "name": "Ibn Wahb",
+          "children": [
+            {
+              "name": "Amr b. al-Harith",
+              "value": 4
+            },
+            {
+              "name": "Ibn Layi'a",
+              "value": 3
+            },
+            {
+              "name": "Malik",
+              "value": 4
+            },
+            {
+              "name": "Yunus",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Sufyan",
+          "children": [
+            {
+              "name": "al-Zuhri",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yunus b. 'Abd al-A'la",
+      "children": [
+        {
+          "name": "Ibn Wahb",
+          "children": [
+            {
+              "name": "Abd Allah b. 'Umar",
+              "value": 3
+            },
+            {
+              "name": "Amr b. al-Harith",
+              "value": 7
+            },
+            {
+              "name": "Malik",
+              "value": 6
+            },
+            {
+              "name": "Yunus",
+              "value": 6
+            },
+            {
+              "name": "Yunus b. Yazid",
+              "value": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-'Abbas b. al-Walid",
+      "children": [
+        {
+          "name": "Abi",
+          "children": [
+            {
+              "name": "al-Awza'i",
+              "value": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Hasan b. 'Ali",
+      "children": [
+        {
+          "name": "al-Walid b. al-Qasim",
+          "children": [
+            {
+              "name": "Yazid b. Kaysan",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Hasan b. Yahya",
+      "children": [
+        {
+          "name": "Abd al-Razzaq",
+          "children": [
+            {
+              "name": "Ibn Jurayj",
+              "value": 8
+            },
+            {
+              "name": "Ma'mar",
+              "value": 8
+            },
+            {
+              "name": "al-Thawri",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Muqaddami",
+      "children": [
+        {
+          "name": "al-Hajjaj",
+          "children": [
+            {
+              "name": "Hammad",
+              "value": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "al-Rabi' b. Sulayman",
+      "children": [
+        {
+          "name": "Ibn Wahb",
+          "children": [
+            {
+              "name": "Sulayman b. Bilal",
+              "value": 3
+            },
+            {
+              "name": "Usama b. Zayd",
+              "value": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
