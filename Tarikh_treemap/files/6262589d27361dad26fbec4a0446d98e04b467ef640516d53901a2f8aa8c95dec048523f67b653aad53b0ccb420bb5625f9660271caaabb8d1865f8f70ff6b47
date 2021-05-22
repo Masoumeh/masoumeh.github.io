@@ -2,7 +2,7 @@
   "name": "Tarikh",
   "children": [
     {
-      "name": "Abd Allah b. Ahmad b. Shibawayh",
+      "name": "Abd Allah b. Ahmad b. Shabbuwayh",
       "children": [
         {
           "name": "Abi",
@@ -154,14 +154,28 @@
       ]
     },
     {
-      "name": "Muhammad b. 'Abd al-'Ala",
+      "name": "Ibn 'Abd al-A'la",
       "children": [
         {
           "name": "Muhammad b. Thawr",
           "children": [
             {
               "name": "Ma'mar",
-              "value": 8
+              "value": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ibn Sinan",
+      "children": [
+        {
+          "name": "al-Hajjaj",
+          "children": [
+            {
+              "name": "Hammad",
+              "value": 3
             }
           ]
         }

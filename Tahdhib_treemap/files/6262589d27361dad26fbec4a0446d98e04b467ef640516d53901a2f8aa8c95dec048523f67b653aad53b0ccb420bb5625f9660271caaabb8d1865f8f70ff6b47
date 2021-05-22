@@ -180,7 +180,7 @@
           "name": "Yahya b. Adam",
           "children": [
             {
-              "name": "Ibn Uyayna",
+              "name": "Sufyan b. 'Uyayna",
               "value": 3
             }
           ]
@@ -354,13 +354,29 @@
       ]
     },
     {
-      "name": "Ibn 'Abd al-'Ala",
+      "name": "Ibn 'Abd al-A'la",
       "children": [
         {
           "name": "al-Mu'tamir",
           "children": [
             {
               "name": "Abihi",
+              "value": 13
+            },
+            {
+              "name": "Fudayl",
+              "value": 4
+            },
+            {
+              "name": "Imran",
+              "value": 3
+            },
+            {
+              "name": "Ubayd Allah",
+              "value": 10
+            },
+            {
+              "name": "Yunus",
               "value": 3
             }
           ]
@@ -368,7 +384,7 @@
       ]
     },
     {
-      "name": "Ibn 'Abd al-Rahim al-Baraqi",
+      "name": "Ibn 'Abd al-Rahim al-Barqi",
       "children": [
         {
           "name": "Amir b. Abi Salama",
@@ -463,28 +479,6 @@
       ]
     },
     {
-      "name": "Muhammad b. 'Abd al-'Ala",
-      "children": [
-        {
-          "name": "al-Mu'tamir",
-          "children": [
-            {
-              "name": "Abihi",
-              "value": 10
-            },
-            {
-              "name": "Fudayl",
-              "value": 3
-            },
-            {
-              "name": "Ubayd Allah",
-              "value": 8
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Muhammad b. 'Abd al-Malik b. Abi al-Shawarib",
       "children": [
         {
@@ -524,7 +518,7 @@
           "children": [
             {
               "name": "Sufyan",
-              "value": 93
+              "value": 94
             }
           ]
         },
@@ -1038,11 +1032,11 @@
           ]
         },
         {
-          "name": "Ibn Uyayna",
+          "name": "Sufyan b. 'Uyayna",
           "children": [
             {
               "name": "al-Zuhri",
-              "value": 3
+              "value": 4
             }
           ]
         }
@@ -1301,7 +1295,7 @@
       ]
     },
     {
-      "name": "al-Rabi' b. Sulayman",
+      "name": "al-Rabi'",
       "children": [
         {
           "name": "Ibn Wahb",
