@@ -1,0 +1,235 @@
+{
+  "name": "Ibn Asakir",
+  "children": [
+    {
+      "name": "Abu Bakr Muhammad b. Shuja'",
+      "children": [
+        {
+          "name": "Abu 'Amr al-'Abdi",
+          "children": [
+            {
+              "name": "Abu Muhammad b. Yawh",
+              "children": [
+                {
+                  "name": "Ahmad b. Muhammad al-Lanbani",
+                  "children": [
+                    {
+                      "name": "Abu Bakr b. Abi Dunya",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Abu 'Amr b. Manda",
+          "children": [
+            {
+              "name": "Abu Muhammad b. Yawh",
+              "children": [
+                {
+                  "name": "Abu al-Hasan al-Lubnani",
+                  "children": [
+                    {
+                      "name": "Abu Bakr b. Abi Dunya",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 10
+                        },
+                        {
+                          "name": "Muhammad",
+                          "value": 3
+                        },
+                        {
+                          "name": "Muhammad b. al-Husayn",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Abu al-Husayn al-Lanbani",
+                  "children": [
+                    {
+                      "name": "Abu Bakr b. Abi Dunya",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ahmad b. Muhammad al-Lanbani",
+                  "children": [
+                    {
+                      "name": "Abu Bakr b. 'Ubayd",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 3
+                        },
+                        {
+                          "name": "Ali b. al-Ju'd",
+                          "value": 3
+                        },
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 206
+                        },
+                        {
+                          "name": "Muhammad",
+                          "value": 84
+                        },
+                        {
+                          "name": "Muhammad b. al-Husayn",
+                          "value": 7
+                        },
+                        {
+                          "name": "ابن",
+                          "value": 4
+                        },
+                        {
+                          "name": "سليمان بن أبي شيخ",
+                          "value": 3
+                        },
+                        {
+                          "name": "محمد بن",
+                          "value": 8
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Abu Bakr b. Abi Dunya",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 3
+                        },
+                        {
+                          "name": "Ali b. al-Ju'd",
+                          "value": 3
+                        },
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 206
+                        },
+                        {
+                          "name": "Muhammad",
+                          "value": 84
+                        },
+                        {
+                          "name": "Muhammad b. al-Husayn",
+                          "value": 7
+                        },
+                        {
+                          "name": "ابن",
+                          "value": 4
+                        },
+                        {
+                          "name": "سليمان بن أبي شيخ",
+                          "value": 3
+                        },
+                        {
+                          "name": "محمد بن",
+                          "value": 8
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "al-Lanbani",
+                  "children": [
+                    {
+                      "name": "Abu Bakr b. Abi Dunya",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ibn Yawwa",
+              "children": [
+                {
+                  "name": "Ahmad b. Muhammad al-Lanbani",
+                  "children": [
+                    {
+                      "name": "Abu Bakr b. Abi Dunya",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "الحسين بن محمد بن أحمد",
+              "children": [
+                {
+                  "name": "Ahmad b. Muhammad al-Lanbani",
+                  "children": [
+                    {
+                      "name": "Abu Bakr b. Abi Dunya",
+                      "children": [
+                        {
+                          "name": "Muhammad",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Abu 'Umar b. Manda",
+          "children": [
+            {
+              "name": "Abu Muhammad b. Yawh",
+              "children": [
+                {
+                  "name": "Ahmad b. Muhammad al-Lanbani",
+                  "children": [
+                    {
+                      "name": "Abu Bakr b. Abi Dunya",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 4
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
