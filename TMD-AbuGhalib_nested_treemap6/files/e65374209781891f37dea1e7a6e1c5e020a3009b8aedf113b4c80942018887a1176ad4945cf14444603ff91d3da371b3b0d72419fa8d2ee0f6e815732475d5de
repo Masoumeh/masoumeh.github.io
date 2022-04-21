@@ -294,32 +294,12 @@
                         {
                           "name": "أبو عبدالله بن أبي",
                           "value": 4
-                        },
-                        {
-                          "name": "Abu al-Qasim Nasr b. Ahmad",
-                          "value": 3
-                        },
-                        {
-                          "name": "Abu al-Qasim b. al-Susi",
-                          "value": 5
                         }
                       ]
                     },
                     {
                       "name": "حينئذ",
                       "children": [
-                        {
-                          "name": "أبو عبد الله بن",
-                          "value": 3
-                        },
-                        {
-                          "name": "أبو عبد الله بن أبي",
-                          "value": 3
-                        },
-                        {
-                          "name": "أبو عبدالله بن أبي",
-                          "value": 4
-                        },
                         {
                           "name": "Abu al-Qasim Nasr b. Ahmad",
                           "value": 3

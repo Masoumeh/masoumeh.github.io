@@ -79,44 +79,12 @@
                         {
                           "name": "Ibn Sa'd",
                           "value": 3
-                        },
-                        {
-                          "name": "Ali b. al-Ju'd",
-                          "value": 3
-                        },
-                        {
-                          "name": "Ibn Sa'd",
-                          "value": 206
-                        },
-                        {
-                          "name": "Muhammad",
-                          "value": 84
-                        },
-                        {
-                          "name": "Muhammad b. al-Husayn",
-                          "value": 7
-                        },
-                        {
-                          "name": "ابن",
-                          "value": 4
-                        },
-                        {
-                          "name": "سليمان بن أبي شيخ",
-                          "value": 3
-                        },
-                        {
-                          "name": "محمد بن",
-                          "value": 8
                         }
                       ]
                     },
                     {
                       "name": "Abu Bakr b. Abi Dunya",
                       "children": [
-                        {
-                          "name": "Ibn Sa'd",
-                          "value": 3
-                        },
                         {
                           "name": "Ali b. al-Ju'd",
                           "value": 3
