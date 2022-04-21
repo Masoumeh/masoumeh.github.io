@@ -3,9 +3,9 @@ export default function define(runtime, observer) {
   const fileAttachments = new Map([["results.json",new URL("./files/6262589d27361dad26fbec4a0446d98e04b467ef640516d53901a2f8aa8c95dec048523f67b653aad53b0ccb420bb5625f9660271caaabb8d1865f8f70ff6b47",import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function(md){return(
-md`# Tabari Zoomable Treemap
+md`# TMD-Abu Ghalib Zoomable Treemap
 
-This [treemap](/@d3/treemap) supports zooming: click any cell to zoom in, or the top to zoom out.`
+This treemap supports zooming: click any cell to zoom in, or the top to zoom out.`
 )});
   main.variable(observer("chart")).define("chart", ["d3","width","height","treemap","data","name","format","DOM"], function(d3,width,height,treemap,data,name,format,DOM)
 {
