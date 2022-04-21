@@ -1,0 +1,366 @@
+{
+  "name": "IbnAsakir",
+  "children": [
+    {
+      "name": "Abu Ghalib",
+      "children": [
+        {
+          "name": "Abu Ishaq al-Barmaki",
+          "children": [
+            {
+              "name": "Ibn Hayyawayh",
+              "children": [
+                {
+                  "name": "Ahmad b. Ma'ruf",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. Fahm",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 107
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Abu Ishaq al-Rumali",
+          "children": [
+            {
+              "name": "Ibn Hayyawayh",
+              "children": [
+                {
+                  "name": "Ahmad b. Ma'ruf",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. Fahm",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Abu Muhammad al-Jawhari",
+          "children": [
+            {
+              "name": "Abu 'Umar",
+              "children": [
+                {
+                  "name": "Ahmad b. Ma'ruf",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. Fahm",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 13
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ibn Hayyawayh",
+              "children": [
+                {
+                  "name": "Ahmad b. Ma'ruf",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. Fahm",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 471
+                        },
+                        {
+                          "name": "Sulayman b. Ishaq",
+                          "value": 6
+                        },
+                        {
+                          "name": "أبي أيوب سليمان بن إسحاق",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Sulayman b. Ayyub",
+                  "children": [
+                    {
+                      "name": "al-Harith b. Abi Usama",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 4
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Sulayman b. Ishaq",
+                  "children": [
+                    {
+                      "name": "al-Harith b. Abi Usama",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 108
+                        },
+                        {
+                          "name": "Muhammad",
+                          "value": 3
+                        },
+                        {
+                          "name": "محمد بن",
+                          "value": 8
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Yahya b. Muhammad",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. al-Hasan",
+                      "children": [
+                        {
+                          "name": "Abd Allah",
+                          "value": 3
+                        },
+                        {
+                          "name": "Ibn al-Mubarak",
+                          "value": 8
+                        },
+                        {
+                          "name": "عبد الله بن المبارك",
+                          "value": 5
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "يحيى بن محمد بن صاعد",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. al-Hasan",
+                      "children": [
+                        {
+                          "name": "Ibn al-Mubarak",
+                          "value": 15
+                        },
+                        {
+                          "name": "الهيثم بن جميل",
+                          "value": 4
+                        },
+                        {
+                          "name": "عبد الله بن المبارك",
+                          "value": 33
+                        },
+                        {
+                          "name": "عبدالله بن المبارك",
+                          "value": 15
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ibn Hayyawayh, Abu Bakr b. Isma'il",
+              "children": [
+                {
+                  "name": "Yahya b. Muhammad",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. al-Hasan",
+                      "children": [
+                        {
+                          "name": "Ibn al-Mubarak",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "يحيى بن محمد بن صاعد",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. al-Hasan",
+                      "children": [
+                        {
+                          "name": "Abd Allah",
+                          "value": 12
+                        },
+                        {
+                          "name": "ابن",
+                          "value": 10
+                        },
+                        {
+                          "name": "عبد",
+                          "value": 16
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Muhammad b. al-'Abbas b. Hayyawaya",
+              "children": [
+                {
+                  "name": "Ahmad b. Ma'ruf",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. Fahm",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 3
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Abu al-Hasan al-Sirafi",
+          "children": [
+            {
+              "name": "Ahmad b. Ishaq",
+              "children": [
+                {
+                  "name": "Ahmad b. 'Imran",
+                  "children": [
+                    {
+                      "name": "Musa",
+                      "children": [
+                        {
+                          "name": "Khalifa",
+                          "value": 5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Abu al-Husayn b. al-Abnusi",
+          "children": [
+            {
+              "name": "أبو القاسم بن عتاب",
+              "children": [
+                {
+                  "name": "Ahmad b. 'Umayr",
+                  "children": [
+                    {
+                      "name": "Abu al-Qasim b. al-Susi",
+                      "children": [
+                        {
+                          "name": "أبو عبد الله بن",
+                          "value": 3
+                        },
+                        {
+                          "name": "أبو عبد الله بن أبي",
+                          "value": 3
+                        },
+                        {
+                          "name": "أبو عبدالله بن أبي",
+                          "value": 4
+                        },
+                        {
+                          "name": "Abu al-Qasim Nasr b. Ahmad",
+                          "value": 3
+                        },
+                        {
+                          "name": "Abu al-Qasim b. al-Susi",
+                          "value": 5
+                        }
+                      ]
+                    },
+                    {
+                      "name": "حينئذ",
+                      "children": [
+                        {
+                          "name": "أبو عبد الله بن",
+                          "value": 3
+                        },
+                        {
+                          "name": "أبو عبد الله بن أبي",
+                          "value": 3
+                        },
+                        {
+                          "name": "أبو عبدالله بن أبي",
+                          "value": 4
+                        },
+                        {
+                          "name": "Abu al-Qasim Nasr b. Ahmad",
+                          "value": 3
+                        },
+                        {
+                          "name": "Abu al-Qasim b. al-Susi",
+                          "value": 5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ibrahim b. 'Umar",
+          "children": [
+            {
+              "name": "Ibn Hayyawayh",
+              "children": [
+                {
+                  "name": "Ahmad b. Ma'ruf",
+                  "children": [
+                    {
+                      "name": "al-Husayn b. Fahm",
+                      "children": [
+                        {
+                          "name": "Ibn Sa'd",
+                          "value": 6
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
