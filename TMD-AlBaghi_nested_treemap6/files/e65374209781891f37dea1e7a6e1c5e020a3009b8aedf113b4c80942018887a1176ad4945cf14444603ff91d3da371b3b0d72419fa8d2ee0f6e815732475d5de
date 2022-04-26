@@ -1,6 +1,4 @@
-{
-  "name": "Ibn Asakir",
-  "children": [
+
     {
       "name": "Abu Bakr Muhammad b. 'Abd al-Baqi",
       "children": [
@@ -21,15 +19,6 @@
                           "value": 7
                         }
                       ]
-                    },
-                    {
-                      "name": "al-Husayn b. Fahm",
-                      "children": [
-                        {
-                          "name": "Ibn Sa'd",
-                          "value": 3
-                        }
-                      ]
                     }
                   ]
                 },
@@ -42,39 +31,6 @@
                         {
                           "name": "Ibn Sa'd",
                           "value": 28
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Abu 'Umar al-Susi",
-              "children": [
-                {
-                  "name": "Ahmad b. Ma'ruf",
-                  "children": [
-                    {
-                      "name": "al-Harith b. Abi Usama",
-                      "children": [
-                        {
-                          "name": "Ibn Sa'd",
-                          "value": 3
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Sulayman b. Ishaq",
-                  "children": [
-                    {
-                      "name": "al-Harith b. Abi Usama",
-                      "children": [
-                        {
-                          "name": "Ibn Sa'd",
-                          "value": 3
                         }
                       ]
                     }
@@ -96,10 +52,6 @@
                           "value": 28
                         },
                         {
-                          "name": "al-Waqidi",
-                          "value": 3
-                        },
-                        {
                           "name": "محمد بن عمر الواقدي",
                           "value": 34
                         }
@@ -111,29 +63,6 @@
                         {
                           "name": "Muhammad b. 'Umar",
                           "value": 10
-                        }
-                      ]
-                    },
-                    {
-                      "name": "محمد بن شجاع الثلجي",
-                      "children": [
-                        {
-                          "name": "Muhammad b. 'Umar",
-                          "value": 4
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Abu Ayyub Sulayman",
-                  "children": [
-                    {
-                      "name": "al-Harith b. Abi Usama",
-                      "children": [
-                        {
-                          "name": "Ibn Sa'd",
-                          "value": 3
                         }
                       ]
                     }
@@ -148,23 +77,6 @@
                         {
                           "name": "Ibn Sa'd",
                           "value": 104
-                        },
-                        {
-                          "name": "Muhammad",
-                          "value": 5
-                        },
-                        {
-                          "name": "أبو عبد الله محمد بن",
-                          "value": 3
-                        }
-                      ]
-                    },
-                    {
-                      "name": "al-Hasan b. Fahm",
-                      "children": [
-                        {
-                          "name": "Ibn Sa'd",
-                          "value": 3
                         }
                       ]
                     },
@@ -178,10 +90,6 @@
                         {
                           "name": "Muhammad",
                           "value": 6
-                        },
-                        {
-                          "name": "محمد بن",
-                          "value": 3
                         }
                       ]
                     }
@@ -236,34 +144,6 @@
                         {
                           "name": "Muhammad b. 'Umar",
                           "value": 6
-                        },
-                        {
-                          "name": "محمد بن عمر الواقدي",
-                          "value": 5
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "al-Hasan",
-          "children": [
-            {
-              "name": "Abu 'Umar",
-              "children": [
-                {
-                  "name": "Ahmad b. Ma'ruf",
-                  "children": [
-                    {
-                      "name": "al-Husayn b. Fahm",
-                      "children": [
-                        {
-                          "name": "Ibn Sa'd",
-                          "value": 3
                         }
                       ]
                     }
@@ -299,5 +179,3 @@
         }
       ]
     }
-  ]
-}
