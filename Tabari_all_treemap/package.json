@@ -1,14 +1,14 @@
 {
-  "name": "de0c7aca6b5073da",
-  "main": "de0c7aca6b5073da@402.js",
-  "version": "402.0.0",
-  "homepage": "https://observablehq.com/d/de0c7aca6b5073da",
+  "name": "@d3/zoomable-treemap",
+  "main": "dffe0d34a20a472b@428.js",
+  "version": "428.0.0",
+  "homepage": "https://observablehq.com/@d3/zoomable-treemap",
   "author": {
-    "name": "Ali Rostami",
-    "url": "https://observablehq.com/@rostam"
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
   },
   "type": "module",
   "peerDependencies": {
-    "@observablehq/runtime": "4"
+    "@observablehq/runtime": "4 - 5"
   }
 }

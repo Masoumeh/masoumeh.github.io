@@ -1,23 +1,56 @@
-export default function define(runtime, observer) {
-  const main = runtime.module();
-  const fileAttachments = new Map([["results.json",new URL("./files/6262589d27361dad26fbec4a0446d98e04b467ef640516d53901a2f8aa8c95dec048523f67b653aad53b0ccb420bb5625f9660271caaabb8d1865f8f70ff6b47",import.meta.url)]]);
-  main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
-  main.variable(observer()).define(["md"], function(md){return(
-md`# Tabari Zoomable Treemap
+function _1(md){return(
+md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Zoomable treemap</h1><a href="https://d3js.org/">D3</a> › <a href="/@d3/gallery">Gallery</a></div>
 
-This [treemap](/@d3/treemap) supports zooming: click any cell to zoom in, or the top to zoom out.`
-)});
-  main.variable(observer("chart")).define("chart", ["d3","width","height","treemap","data","name","format","DOM"], function(d3,width,height,treemap,data,name,format,DOM)
+# Tabari's Zoomable treemap
+
+Click any cell to zoom in, or the top to zoom out.
+
+Includes three books' Isnad data of depth three (positions 0 to 2, excluding Tabari) for top 50 direct informant, filtering Isnads of 1 or 2 occurences as well as those with ##### in any positions 1-2.`
+)}
+
+function _chart(d3,data,DOM)
 {
+  // Specify the chart’s dimensions.
+  const width = window.innerWidth;//2000;
+  const height = window.innerHeight;//1000;
+
+  // This custom tiling function adapts the built-in binary tiling function
+  // for the appropriate aspect ratio when the treemap is zoomed-in.
+  function tile(node, x0, y0, x1, y1) {
+    d3.treemapBinary(node, 0, 0, width, height);
+    for (const child of node.children) {
+      child.x0 = x0 + child.x0 / width * (x1 - x0);
+      child.x1 = x0 + child.x1 / width * (x1 - x0);
+      child.y0 = y0 + child.y0 / height * (y1 - y0);
+      child.y1 = y0 + child.y1 / height * (y1 - y0);
+    }
+  }
+
+  // Compute the layout.
+  const hierarchy = d3.hierarchy(data)
+    .sum(d => d.value)
+    .sort((a, b) => b.value - a.value);
+  const root = d3.treemap().tile(tile)(hierarchy);
+
+  // Create the scales.
   const x = d3.scaleLinear().rangeRound([0, width]);
   const y = d3.scaleLinear().rangeRound([0, height]);
 
+  // Formatting utilities.
+  const format = d3.format(",d");
+  const name = d => d.ancestors().reverse().map(d => d.data.name).join("/");
+
+  // Create the SVG container.
   const svg = d3.create("svg")
       .attr("viewBox", [0.5, -30.5, width, height + 30])
-      .style("font", "10px sans-serif");
+      .attr("width", width)
+      .attr("height", height + 30)
+      .attr("style", "max-width: 100%; height: auto;")
+      .style("font", "14px sans-serif");
 
+  // Display the root.
   let group = svg.append("g")
-      .call(render, treemap(data));
+      .call(render, root);
 
   function render(group, root) {
     const node = group
@@ -34,7 +67,7 @@ This [treemap](/@d3/treemap) supports zooming: click any cell to zoom in, or the
 
     node.append("rect")
         .attr("id", d => (d.leafUid = DOM.uid("leaf")).id)
-        .attr("fill", d => d === root ? "#fff" : d.children ? "#ccc" : "#ddd")
+        .attr("fill", d => d === root ? "#6fa8dc" : d.children ? "#9fc5e8" : "#cfe2f3")
         .attr("stroke", "#fff");
 
     node.append("clipPath")
@@ -101,45 +134,21 @@ This [treemap](/@d3/treemap) supports zooming: click any cell to zoom in, or the
 
   return svg.node();
 }
-);
-  main.variable(observer("data")).define("data", ["FileAttachment"], function(FileAttachment){return(
-FileAttachment("results.json").json()
-)});
-  main.variable(observer("treemap")).define("treemap", ["d3","tile"], function(d3,tile){return(
-data => d3.treemap()
-    .tile(tile)
-  (d3.hierarchy(data)
-    .sum(d => d.value)
-    .sort((a, b) => b.value - a.value))
-)});
-  main.variable(observer()).define(["md"], function(md){return(
-md`This custom tiling function adapts the built-in binary tiling function for the appropriate aspect ratio when the treemap is zoomed-in.`
-)});
-  main.variable(observer("tile")).define("tile", ["d3","width","height"], function(d3,width,height){return(
-function tile(node, x0, y0, x1, y1) {
-  d3.treemapBinary(node, 0, 0, width, height);
-  for (const child of node.children) {
-    child.x0 = x0 + child.x0 / width * (x1 - x0);
-    child.x1 = x0 + child.x1 / width * (x1 - x0);
-    child.y0 = y0 + child.y0 / height * (y1 - y0);
-    child.y1 = y0 + child.y1 / height * (y1 - y0);
-  }
-}
-)});
-  main.variable(observer("name")).define("name", function(){return(
-d => d.ancestors().reverse().map(d => d.data.name).join("/")
-)});
-  main.variable(observer("width")).define("width", function(){return(
-954
-)});
-  main.variable(observer("height")).define("height", function(){return(
-924
-)});
-  main.variable(observer("format")).define("format", ["d3"], function(d3){return(
-d3.format(",d")
-)});
-  main.variable(observer("d3")).define("d3", ["require"], function(require){return(
-require("d3@6")
-)});
+
+
+function _data(FileAttachment){return(
+FileAttachment("flare-2.json").json()
+)}
+
+export default function define(runtime, observer) {
+  const main = runtime.module();
+  function toString() { return this.url; }
+  const fileAttachments = new Map([
+    ["flare-2.json", {url: new URL("./files/Tabari_all_treemap3.json", import.meta.url), mimeType: "application/json", toString}]
+  ]);
+  main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
+  main.variable(observer()).define(["md"], _1);
+  main.variable(observer("chart")).define("chart", ["d3","data","DOM"], _chart);
+  main.variable(observer("data")).define("data", ["FileAttachment"], _data);
   return main;
 }
