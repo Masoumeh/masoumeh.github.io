@@ -1,0 +1,51 @@
+{
+  "name": "Tabari",
+  "children": [
+	{
+	      "name": "Musa",
+	      "children": [
+		{
+		  "name": "Amr",
+		  "children": [
+		    {
+		      "name": "Asbat",
+		      "children": [
+		        {
+		          "name": "al-Suddi",
+		          "value": 232
+		        },
+		        {
+		          "name": "السدي أما",
+		          "value": 3
+		        }
+		      ]
+		    }
+		  ]
+		}
+	      ]
+	    },
+	    {
+	      "name": "Muhammad b. al-Husayn",
+	      "children": [
+		{
+		  "name": "Ahmad",
+		  "children": [
+		    {
+		      "name": "Asbat",
+		      "children": [
+		        {
+		          "name": "al-Suddi",
+		          "value": 176
+		        },
+		        {
+		          "name": "السدي أما",
+		          "value": 5
+		        }
+		      ]
+		    }
+		  ]
+		}
+	      ]
+	    }
+    ]
+}

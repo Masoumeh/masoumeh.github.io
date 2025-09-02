@@ -1,6 +1,6 @@
 export default function define(runtime, observer) {
   const main = runtime.module();
-  const fileAttachments = new Map([["flare-2.json",new URL("./files/e65374209781891f37dea1e7a6e1c5e020a3009b8aedf113b4c80942018887a1176ad4945cf14444603ff91d3da371b3b0d72419fa8d2ee0f6e815732475d5de",import.meta.url)]]);
+  const fileAttachments = new Map([["flare-2.json",new URL("./files/e65374209781891f37dea1e7a6e1c5e020a3009b8aedf113b4c80942018887a1176ad4945cf14444603ff91d3da371b3b0d72419fa8d2ee0f6e815732475d5de_Musa+MuhammadAl-Husayn",import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function(md){return(
 md`# Nested Treemap
@@ -50,7 +50,7 @@ This treemap variant applies padding to label internal nodes, better revealing t
   node.append("text")
       .attr("clip-path", d => d.clipUid)
     .selectAll("tspan")
-    .data(d => d.data.name.split(/(?=[A-Z][^A-Z])/g).concat(format(d.value)))
+    .data(d => d.data.name.split(/\s/g).concat(format(d.value)))
     .join("tspan")
       .attr("fill-opacity", (d, i, nodes) => i === nodes.length - 1 ? 0.7 : null)
       .text(d => d);
@@ -81,10 +81,10 @@ data => d3.treemap()
       .sort((a, b) => b.value - a.value))
 )});
   main.variable(observer("width")).define("width", function(){return(
-954
+500//954//window.innerWidth//
 )});
   main.variable(observer("height")).define("height", function(){return(
-1060
+550//1060//window.innerHeight//
 )});
   main.variable(observer("format")).define("format", ["d3"], function(d3){return(
 d3.format(",d")

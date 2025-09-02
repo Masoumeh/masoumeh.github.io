@@ -50,7 +50,7 @@ This treemap variant applies padding to label internal nodes, better revealing t
   node.append("text")
       .attr("clip-path", d => d.clipUid)
     .selectAll("tspan")
-    .data(d => d.data.name.split(/(?=[A-Z][^A-Z])/g).concat(format(d.value)))
+    .data(d => d.data.name.split(/\s/g).concat(format(d.value)))//(/(?=[A-Z][^A-Z])/g).concat(format(d.value)))
     .join("tspan")
       .attr("fill-opacity", (d, i, nodes) => i === nodes.length - 1 ? 0.7 : null)
       .text(d => d);

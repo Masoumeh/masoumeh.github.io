@@ -15,6 +15,8 @@ The file `./files/Tabari_all_treemap3.json` contains Isnads of depth three (posi
    - Appear fewer than 3 times (represented as `value` in the JSON file at `./files/` or `count_y` in the tables named `Tabari-all-para - start-w_haddathni-a_names_noWaw_LA_signal_g1_joined-g123(4 or 5).csv`).
    - Contain `"#####"` in any positions after `name_0` in the corresponding set.
 
+Local files used here:
+'Tabari-all-para - start-w_haddathni-a_names_noWaw_LA_signal_g1.csv' generates 'Tabari-all-para - start-w_haddathni-a_names_noWaw_LA_signal_g1_joined-g123.csv'. The latter generates ./files/Tabarai_all_treemap.json.
 
 <!--
 View this notebook in your browser by running a web server in this folder. For
